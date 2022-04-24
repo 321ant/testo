@@ -37,19 +37,34 @@ https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_9
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png", INEWS
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png", INEWS
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+
 //SCTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
-#https://liveanevia.mncnow.id/live/eds/SCTV-HDD/sa_dash_vmx/SCTV-HDd.mpd
+https://liveanevia.mncnow.id/live/eds/SCTV-HDD/sa_dash_vmx/SCTV-HDd.mpd
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1650834644~acl=/hls-p/ingest_204_*/*~hmac=6603265f90ed31fa65df3fae2c5daf3c39f940da92493d7224c64fb5776b89d3/hls-p/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1650834644~acl=/hls-b/ingest_204_*/*~hmac=3d1e00468a2380421cd233f864ad5f4939fca02386926e24a60b6c1aac8c36bc/hls-b/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1650830149~acl=/hls-p/ingest_204_*/*~hmac=88e5693549a06b7e10a269e4a9108ae6f76095e796dcd21082233ec5e425616c/hls-p/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1650830149~acl=/hls-b/ingest_204_*/*~hmac=0e5806f4052578f1e6cbe1d67e6ef4d5f34fc201b4c0cf4564f4e9d31f8e1c80/hls-b/ingest_204_720p/index.m3u8
 
 //INDOSIAR
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR
-#https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 //ANTV
 
@@ -104,7 +119,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV
-#https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
@@ -209,7 +224,7 @@ http://36.89.47.217:11935/rrinet/live/chunklist.m3u8
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png", JITV
 http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
 
-//HIINDONESIA MATI
+//HIINDONESIA
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="http://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s320/20170609004600-735840.jpg", Hi Indo
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
