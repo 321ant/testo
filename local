@@ -181,8 +181,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 //NUSANTARATV
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png", Nusantara TV
-https://cdn12jtedge.useetv.com/joss/134/nusantaratv/chunklist_w1364323593_b10
-04100_sleng.m3u8?enc=_kmOdVFOTs2AKK3Z8yYgSg&uid=&exp=1650826267
+https://cdn12jtedge.useetv.com/joss/134/nusantaratv/chunklist_w1364323593_b1004100_sleng.m3u8?enc=_kmOdVFOTs2AKK3Z8yYgSg&uid=&exp=1650826267
 
 //CNBC
 
@@ -207,9 +206,9 @@ http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
 //HIINDONESIA MATI
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="http://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s320/20170609004600-735840.jpg", Hi Indo
-#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 
 //TVEDUKASI
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13",TV Edukasi
-#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
