@@ -96,12 +96,18 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/gP8FSqK/kompas-lean-paps.png", KOMPASTV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/gP8FSqK/kompas-lean-paps.png", KOMPASTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
 //METROTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV
 #https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 //TRANSTV
 
@@ -212,5 +218,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13",TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13",TV Edukasi
+https://cdn12jtedge.useetv.com/joss/134/tvedukasi/chunklist_w443661802_b1004100_sleng.m3u8?enc=wGQ4enTHSyEl1PX7r6qNqg&uid=&exp=1650826258
 
 //
