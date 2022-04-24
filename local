@@ -72,6 +72,12 @@ https://etslive-2-vidio-com.akamaized.net/exp=1650834645~acl=/hls-p/ingest_205_*
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 3
 https://etslive-2-vidio-com.akamaized.net/exp=1650834645~acl=/hls-b/ingest_205_*/*~hmac=603682c75dd5e31798e5d94ca6726a285809a76eb9ce2ffd1698cff02fe478a1/hls-b/ingest_205_720p/index.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 4
+https://etslive-2-vidio-com.akamaized.net/exp=1650829944~acl=/hls-p/ingest_205_*/*~hmac=80082de495a8d95b783bf0743eb3364f266c61ef9c197fd75a89ff4fa5d7c071/hls-p/ingest_205_720p/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 5
+https://etslive-2-vidio-com.akamaized.net/exp=1650829944~acl=/hls-b/ingest_205_*/*~hmac=d06b42503b0ac295e2d20662039710ef4b5cdde688aa494f9aff1d5a72c75282/hls-b/ingest_205_720p/index.m3u8
+
 //ANTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
