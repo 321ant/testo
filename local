@@ -310,5 +310,6 @@ https://cdn09jtedge.useetv.com/joss/134/nusantaratv/chunklist_w1226421316_b10041
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 //TAATV
+
 #EXTINF:-1  group-title="LOCAL 🇮🇩" tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png", TA TV
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
