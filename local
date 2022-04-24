@@ -170,7 +170,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 //CNN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF: -1 tvg-logo="https://gudrilogo.blogspot.com/2019/01/logo-cnn-indonesia-vector-cdr-png-hd.html" group-title="LOCAL 🇮🇩",CNN Indonesia
+#EXTINF: -1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png" group-title="LOCAL 🇮🇩",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
 //NUSANTARATV
