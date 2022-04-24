@@ -135,9 +135,6 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/gP8FSqK/kompas-lean-paps.png", KOMPASTV 2 (Server Telkomsel)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/gP8FSqK/kompas-lean-paps.png", KOMPASTV 3 (Server Urfan)
-http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-
 //METROTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -303,5 +300,15 @@ https://cdn09jtedge.useetv.com/joss/133/useephoto/chunklist_w1371640928_b1344100
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 //NTV
+
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/600px-Logo_ntv.png", NTV (Server UseeTv)
 https://cdn09jtedge.useetv.com/joss/134/nusantaratv/chunklist_w1226421316_b1004100_sleng.m3u8?enc=TBv4ID48ubMCR9Rugd431A&uid=&exp=1650833460
+
+//ADITV
+
+#EXTINF:-1  group-title="LOCAL 🇮🇩" tvg-logo="https://aditv.co.id/wp-content/uploads/2018/03/aditv.png", ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+//TAATV
+#EXTINF:-1  group-title="LOCAL 🇮🇩" tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png", TA TV
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
