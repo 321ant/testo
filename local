@@ -79,6 +79,9 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/5hHHBMD/rajawali-lean-paps.png", RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/5hHHBMD/rajawali-lean-paps.png", RTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+
 //DAAITV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -141,6 +144,9 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/SBbPdN0/image-32.png", JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/SBbPdN0/image-32.png", JTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+
 //BALITV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -149,6 +155,7 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 
 //BANDUNGTV
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://e7.pngegg.com/pngimages/146/725/png-clipart-bandung-tv-logo-television-brand-bandung-logo.png", Bandung TV
@@ -162,13 +169,38 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 //CNN
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF: -1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png" group-title="LOCAL 🇮🇩",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
 //NUSANTARATV
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png", Nusantara TV
-https://cdn12jtedge.useetv.com/joss/134/nusantaratv/chunklist_w1364323593_b1004100_sleng.m3u8?enc=_kmOdVFOTs2AKK3Z8yYgSg&uid=&exp=1650826267
 
-//..
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png", Nusantara TV
+https://cdn12jtedge.useetv.com/joss/134/nusantaratv/chunklist_w1364323593_b10
+04100_sleng.m3u8?enc=_kmOdVFOTs2AKK3Z8yYgSg&uid=&exp=1650826267
+
+//CNBC
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+
+//BERITASATU
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+//RRINET
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13", RRInet
+http://36.89.47.217:11935/rrinet/live/chunklist.m3u8
+
+//JITV
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png", JITV
+http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
+
+//HIINDONESIA
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="http://4.bp.blogspot.com/-WQlxdL6lzJc/WTmQYGWEIVI/AAAAAAAAHnQ/FtEKJJMJ-5IPoRN9_IekooSA2S0oHwULwCK4B/s320/20170609004600-735840.jpg", Hi Indo
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
