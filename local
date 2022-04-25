@@ -138,6 +138,9 @@ https://cdn09jtedge.useetv.com/joss/133/bumperslate/chunklist_w294850902_b894100
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", NET 3
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", NET 4
+http://210.210.155.35/session/01829194-c30b-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/01.m3u8
+
 //RTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -165,6 +168,12 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/gP8FSqK/kompas-lean-paps.png", KOMPASTV 2 (Server Telkomsel)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/gP8FSqK/kompas-lean-paps.png", KOMPASTV 3
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/gP8FSqK/kompas-lean-paps.png", KOMPASTV 4
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 //METROTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -175,10 +184,13 @@ https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 2 (Server MetroTV)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 3 (Server Telkomsel)
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 3 (Server MetroTV)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 4 (Server Telkomsel)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 4 (Server UseeTV)
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 5 (Server UseeTV)
 https://cdn09jtedge.useetv.com/joss/133/metrotv1080/chunklist_w1411447571_b2544100_sleng.m3u8?enc=NnzYXZKfJdTEgJY7qTg_yA&uid=&exp=1650832985
 
 //TRANSTV
@@ -222,6 +234,9 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/9VCf1tS/image-28.png", TVRI 2 (Server TVRI)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/9VCf1tS/image-28.png", TVRI 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 
 //OCHANNEL
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/hcGMYsV/ochannel-lean-paps.png",  O channel (Server Vidio)
@@ -291,6 +306,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia 2 (Server CNBC)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia 3 (Server CNBC)
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
 //BERITASATU
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu NEWS 1 (Server BeritaSatu)
@@ -299,11 +317,20 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu NEWS 2
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu NEWS 3
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu WORLD (Server BeritaSatu)
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu ENGLISH (Server BeritaSatu)
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu NEWS 4
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu NEWS 5
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 //RRINET
 
@@ -378,6 +405,15 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 //MYTV
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/300px-Mayapada_TV.png", myTV
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png", myTV 1
 http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png", myTV 2
+http://210.210.155.35/session/05ebb0f6-d618-11ea-b1f3-c81f66f89318/qwr9ew/s/s12/01.m3u8
+
+//RAJAWALI
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png", Rajawali TV 1
+http://103.47.132.165/PLTV/88888888/224/3221227223/3.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png", Rajawali TV 2
+http://210.210.155.35/session/05ebb0f6-d618-11ea-b1f3-c81f66f89318/qwr9ew/s/s12/01.m3u8
