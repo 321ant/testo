@@ -10,6 +10,9 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", MNCTV 2 (Server RCTI+)
 https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", MNCTV 3 (Server RCTI+)
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
 //RCTI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -19,6 +22,12 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", RCTI 2 (Server RCTI+)
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", RCTI 3 (Server RCTI+)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", RCTI 4
+http://id2.indostreamingtv.com/live/tv66/index.m3u8
 
 //GTV
 
@@ -30,6 +39,9 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/19frQX4/gtv-lean-paps.png", GTV 2 (Server RCTI+)
 https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/19frQX4/gtv-lean-paps.png", GTV 3 (Server RCTI+)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8  
+
 //INEWS
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,6 +51,9 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png", INEWS 2 (Server MNCnow)
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png", INEWS 3 (Server RCTI+)
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 //SCTV
 
@@ -58,6 +73,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1650830149~acl=/hls-p/ingest_204_*
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 5 (Server Vidio)
 https://etslive-2-vidio-com.akamaized.net/exp=1650830149~acl=/hls-b/ingest_204_*/*~hmac=0e5806f4052578f1e6cbe1d67e6ef4d5f34fc201b4c0cf4564f4e9d31f8e1c80/hls-b/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 6
+http://210.210.155.35/session/7e7ccbbe-d617-11ea-934d-b82a72d63267/qwr9ew/s/s03/01.m3u8
 
 //INDOSIAR
 
@@ -84,6 +102,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1644417619~acl=/hls-p/ingest_6684_
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 7 (Server Vidio)
 https://etslive-2-vidio-com.akamaized.net/exp=1644417619~acl=/hls-b/ingest_6684_*/*~hmac=4edbc1525fa020acec46dca8d5fe294f7bca4a902e9a0fb5603cdc4ce0aa0f72/hls-b/ingest_6684_720p/index.m3u8
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 8
+http://210.210.155.35/session/390362c0-d8b8-11ea-934d-b82a72d63267/qwr9ew/s/s04/02.m3u8
+
 //ANTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -91,12 +112,18 @@ https://etslive-2-vidio-com.akamaized.net/exp=1644417619~acl=/hls-b/ingest_6684_
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/tPfqXC0/antv-lean-paps.png", ANTV 1 (Server MNCnow)
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/tPfqXC0/antv-lean-paps.png", ANTV 2
+http://210.210.155.35/session/a19bb9a0-c886-11ea-934d-b82a72d63267/qwr9ew/s/s07/01.m3u8
+
 //TVONE
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE 1 (Server MNCnow)
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE 2
+http://210.210.155.35/session/62297500-c886-11ea-934d-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
 //NETV
 
@@ -154,21 +181,21 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 4 (Server UseeTV)
 https://cdn09jtedge.useetv.com/joss/133/metrotv1080/chunklist_w1411447571_b2544100_sleng.m3u8?enc=NnzYXZKfJdTEgJY7qTg_yA&uid=&exp=1650832985
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 5 (Server UseeTV)
-https://cdn09jtedge.useetv.com/joss/133/metrotv1080/chunklist_w1411447571_b1544100_sleng.m3u8?enc=NnzYXZKfJdTEgJY7qTg_yA&uid=&exp=1650832985
-
 //TRANSTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png", Trans TV 1 (Server MNCnow)
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png", TransTV 1 (Server MNCnow)
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png", Trans TV 2 (Server Detik)
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png", TransTV 2 (Server Detik)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png", Trans TV 3 (Server Detik)
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png", TransTV 3 (Server Detik)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png", TransTV 4
+http://210.210.155.35/session/ca7292b8-e7ad-11ea-ae09-c81f66f89318/x6bnqe/s/s252/02.m3u8
 
 //TRANS7
 
@@ -182,6 +209,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/WV4PMGf/trans7-lean-paps.png", Trans7 3 (Server Detik)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/WV4PMGf/trans7-lean-paps.png", Trans7 4
+http://210.210.155.35/session/b97f266e-e7ae-11ea-8016-b82a72d63267/qwr9ew/s/s101/02.m3u8
 
 //TVRI
 
@@ -248,9 +278,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 #EXTINF: -1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png", CNN Indonesia 2 (Server CNN)
 http://live.cnnIndonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF: -1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png", CNN Indonesia 3 (Server CNN)
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-
 //NUSANTARATV
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png", Nusantara TV (Server UseeTv)
@@ -258,8 +285,11 @@ https://cdn12jtedge.useetv.com/joss/134/nusantaratv/chunklist_w1364323593_b10041
 
 //CNBC
 
-#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia (Server CNBC)
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia 1 (Server CNBC)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia 2 (Server CNBC)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 //BERITASATU
 
