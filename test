@@ -1,13 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD HD
-http://listaiptv.brcs.ml:8080/SD_DISNEY_XD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1, Disney Channel
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1, Disney Channel
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1, Disney Junior
+http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1, Disney Junior
+http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/index.m3u8
+#EXTINF:-1, Disney_XD
+http://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1, Disney_XD
+http://185.176.117.242/live/eds/Disney_XD/HLS_encr/index.m3u8
