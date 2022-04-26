@@ -26,19 +26,19 @@ https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 2
-http://103.47.132.164/PLTV/88888888/224/3221227145/1.m3u8
+http://45.126.83.51:80/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 3
-http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227145/1.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 4
+http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 5
 http://103.47.132.165/PLTV/88888888/224/3221227145/3.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 5
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 6
 http://103.47.132.165:80/PLTV/88888888/224/3221227145/1.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 5
-http://45.126.83.51:80/dr9445/h/h144/01.m3u8
 
 
 //ANIPLUS
@@ -73,12 +73,6 @@ http://mixsrv.me/RArYb/c3gsj/631
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://macan.network/img/babyfirst.jpg", Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
-
-
-//BEN10
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg", Ben 10
-http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
 
 
 //BIZNETKIDS
