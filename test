@@ -1,20 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1, Disney Channel
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-
-#EXTINF:-1, Disney Channel
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
-
-#EXTINF:-1, Disney Junior
-http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-
-#EXTINF:-1, Disney Junior
-http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/index.m3u8
-
-#EXTINF:-1, Disney_XD
-http://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
-
-#EXTINF:-1, Disney_XD
-http://185.176.117.242/live/eds/Disney_XD/HLS_encr/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Disney
+http://itskoi.dothome.co.kr/jpn.php?id=B131
