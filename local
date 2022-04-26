@@ -3,7 +3,7 @@
 //ADITV
 
 #EXTINF:-1  group-title="LOCAL 🇮🇩" tvg-logo="https://aditv.co.id/wp-content/uploads/2018/03/aditv.png", ADI TV
-#http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 
 //ANTV
@@ -42,7 +42,7 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/320px-Logo_BBS_TV_2018.png", BBS 2
-#http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 
 
 //BERITASATUNEWS
@@ -60,7 +60,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png", BeritaSatu NEWS 5
-#http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
 //BERITASATUWORLD
@@ -82,7 +82,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
 #EXTINF: -1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png", CNN Indonesia 2 (Server CNN)
-http://live.cnnIndonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#http://live.cnnIndonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 //CNBC
@@ -91,10 +91,10 @@ http://live.cnnIndonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia 2 (Server CNBC)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.1", CNBC Indonesia 3 (Server CNBC)
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 //DAAITV
 
@@ -239,6 +239,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 
 #EXTINF:-1 group-title="LOCAL 🇮🇩" tvg-logo="https://i.ibb.co/n8STZNG/metrotv-lean-paps.png", METRO TV 5 (Server UseeTV)
 https://cdn09jtedge.useetv.com/joss/133/metrotv1080/chunklist_w1411447571_b2544100_sleng.m3u8?enc=NnzYXZKfJdTEgJY7qTg_yA&uid=&exp=1650832985
+
 
 //MNCTV
 
