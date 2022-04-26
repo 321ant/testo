@@ -254,14 +254,14 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 //RED
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://macan.live/img/red_hbo.png", RED 1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/250?cb=20210104162109", RED 1
 https://zaltvku.imfast.io/RED.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://macan.live/img/red_hbo.png", RED 2
-#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Red.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/250?cb=20210104162109", RED 2
+https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Red.m3u
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://macan.live/img/red_hbo.png", RED 3
-#http://cekker.masuk.web.id/bro/m3u/red-acak123.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/250?cb=20210104162109", RED 3
+http://cekker.masuk.web.id/bro/m3u/red-acak123.m3u8
 
 
 //SONYONE
