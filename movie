@@ -5,7 +5,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/fSsPq4Y/axn-leanback-papsbor.png", AXN (Server MNC)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/fSsPq4Y/axn-leanback-papsbor.png", AXN (Server MNC)
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 
@@ -13,10 +13,10 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/w586/celestial%2Bclassic%2Bmovies.jpeg", Celestial Classic (Server MNC)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/w586/celestial%2Bclassic%2Bmovies.jpeg", Celestial Classic (Server MNC)
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/w586/celestial%2Bclassic%2Bmovies.jpeg", Celestial Classic 2 (Server MNC)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/w586/celestial%2Bclassic%2Bmovies.jpeg", Celestial Classic 2 (Server MNC)
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 
 
@@ -24,10 +24,10 @@ http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/G5DRGxj/celestialmovies-lean-paps.png", Celestial Movie 1 (Server MNC)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/G5DRGxj/celestialmovies-lean-paps.png", Celestial Movie 1 (Server MNC)
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/G5DRGxj/celestialmovies-lean-paps.png", Celestial Movie 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/G5DRGxj/celestialmovies-lean-paps.png", Celestial Movie 2
 #http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 
 
@@ -35,19 +35,19 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 1 (Server MNC)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 1 (Server MNC)
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 2
 https://bit.ly/38fZNp6
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 3
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 3
 https://zaltvku.imfast.io/HBOMAX.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 4
 #://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.Cinemax.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 5
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX 5
 #http://cekker.masuk.web.id/bro/m3u/max-acak123.m3u8
 
 
@@ -55,7 +55,7 @@ https://zaltvku.imfast.io/HBOMAX.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co/LSj21DC/cinemaworld-lean-paps.png", Cinema World (Server MNC)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/LSj21DC/cinemaworld-lean-paps.png", Cinema World (Server MNC)
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
