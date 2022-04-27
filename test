@@ -1,85 +1,89 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/comedy_300x300.png" group-title="Redbox TV", Redbox Comedy
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/1920x1080_4870800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/spotlight_300x300.png" group-title="Redbox TV", Redbox Spotlight
-https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/1920x1080_4870800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/rush_300x300.png" group-title="Redbox TV", Redbox Rush
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/1920x1080_4870800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Filmrise
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/CONtv_300x300.png" group-title="Redbox TV", Redbox conTV
-https://contv-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-contv-redbox/CDN/1920x1080_5090800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Filmhub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/Docurama_300x300.png" group-title="Redbox TV", Redbox Docurama
-https://docurama-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-docurama-redboxA/CDN/1920x1080_4870800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Maverick Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/DoveNow_300x300.png" group-title="Redbox TV", Redbox Dove Now
-https://dove-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-dovenow-redbox/CDN/1920x1080_5090800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Hi-Yah
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox FilmRise Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Forensic Files
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox FamilyFeud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999915/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Global Got Talent
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999920/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Best of AFV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/ComedyDynamics_300x300.png" group-title="Redbox TV", Redbox Comedy Dynamics
-https://comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-comedydynamicscleanredbox/CDN/1920x1080_4870800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox the pet collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999908/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox People are Awesome
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped" group-title="Redbox TV", Redbox Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Journey
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox USA today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/960x540_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999919/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Now This
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999917/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999909/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Battery Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22785/peopletv/logo_20191212_175415.png" group-title="DistroTV", DistroTV DistroTV People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22783/popstar-tv/logo_20191212_185543.png" group-title="DistroTV", DistroTV Pop Star
+https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22782/latido-music/logo_20191212_200115.png" group-title="DistroTV", DistroTV Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22787/comedy-dynamics/logo_20191213_195237.png" group-title="DistroTV", DistroTV Comedy Dynamics
+https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22735/dry-bar-comedy-1/logo_20191213_194022.png" group-title="DistroTV", DistroTV Dry Bar Comedy
+https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22735/bobs-your-uncle-linear/logo_20191212_233001.png" group-title="DistroTV", DistroTV studio C
+https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22703/saveur-1/logo_20200204_134616.png" group-title="DistroTV", DistroTV Saveur
+https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22718/gusto-tv/logo_20191213_004422.png" group-title="DistroTV", DistroTV gusto
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22724/brut-1/logo_20191212_201031.png" group-title="DistroTV", DistroTV brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22708/fashiontv-loriginal/logo_20191212_234303.png" group-title="DistroTV", DistroTV Fashion TV (US Eastern)
+https://a.jsrdn.com/broadcast/ftv2/-0500/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22708/fashiontv-loriginal/logo_20191212_234303.png" group-title="DistroTV", DistroTV Fashion TV (US Pacific)
+https://a.jsrdn.com/broadcast/ftv2/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22703/popular-science-1/logo_20200204_140317.png" group-title="DistroTV", DistroTV Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22751/idg/logo_20191217_230247.png" group-title="DistroTV", DistroTV IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22706/the-boat-show/logo_20191213_002045.png" group-title="DistroTV", DistroTV The Boat Show
+https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="DistroTV", DistroTV The Film Detective
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22764/electricnow/logo_20191212_183017.png" group-title="DistroTV", DistroTV Electric Now
+https://a.jsrdn.com/broadcast/vf93fRSk7/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22787/bambu/logo_20191213_194558.png" group-title="DistroTV", DistroTV bambu
+https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="DistroTV", DistroTV Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22728/monarch/logo_20191212_203358.png" group-title="DistroTV", DistroTV moncarch channel
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22729/eleven-sports/logo_20200129_230834.png" group-title="DistroTV", DistroTV FTF
+https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22696/fighting-spirit-tv/logo_20191213_003957.png" group-title="DistroTV", DistroTV Fighting Spirit TV
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="DistroTV", DistroTV Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22703/motorcyclist-1/logo_20200204_141145.png" group-title="DistroTV", DistroTV Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22703/cycleworld/logo_20200208_001435.png" group-title="DistroTV", DistroTV Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22776/lax-sports-network/logo_20191212_234942.png" group-title="DistroTV", DistroTV Lax Sports Network
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22765/outside-tv/logo_20200205_182211.png" group-title="DistroTV", DistroTV Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png" group-title="DistroTV", DistroTV World of free sports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22705/horizon-sports/logo_20191213_000421.png" group-title="DistroTV", DistroTV Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22703/fieldstream/logo_20200208_010454.png" group-title="DistroTV", DistroTV Field & Stream
+https://a.jsrdn.com/broadcast/7536b84786/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="DistroTV", DistroTV Bollywood TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22693/britasia-live/logo_20191213_005706.png" group-title="DistroTV", DistroTV Brit Asia Live (US Eastern)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22693/britasia-live/logo_20191213_005706.png" group-title="DistroTV", DistroTV Brit Asia Live (US Pacific)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="DistroTV", DistroTV Bollywood HD
+https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22677/matv-live/logo_20191213_010243.png" group-title="DistroTV", DistroTV MA TV (US Eastern)
+https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0500/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22677/matv-live/logo_20191213_010243.png" group-title="DistroTV", DistroTV MA TV (US Pacific)
+https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22679/channel-s-live/logo_20191213_193059.png" group-title="DistroTV", DistroTV Channel S (US Eastern)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22679/channel-s-live/logo_20191213_193059.png" group-title="DistroTV", DistroTV Channel S (US Pacific)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22680/ntv-live/logo_20191213_191336.png" group-title="DistroTV", DistroTV n TV (US Eastern)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22680/ntv-live/logo_20191213_191336.png" group-title="DistroTV", DistroTV n TV (US Pacific)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22690/venus-tv/logo_20191213_190946.png" group-title="DistroTV", DistroTV Venus TV (US Eastern)
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22690/venus-tv/logo_20191213_190946.png" group-title="DistroTV", DistroTV Venus TV (US Pacific)
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22728/everyday-heroes/logo_20191220_200631.png" group-title="DistroTV", DistroTV Everyday Heroes
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22720/honor-tv/logo_20191213_193346.png" group-title="DistroTV", DistroTV honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22719/titanic-tv/logo_20191213_193719.png" group-title="DistroTV", DistroTV The Titanic Channel
