@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+
+
 //AFN
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -33,12 +37,28 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 
+//CGTNDOCUMENTARY
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/hYTZwf0/cgtndocu-lean-paps.png", CGTN Documentary	
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+
 //CRIMEINVESTIGATION
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/xjxTvYLh/logo-crimeinvestigation-big.png", Crime Investigation (Server MNC)
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+
+//DISCOVERYCHANNEL
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/FK9tNHY/disco-lean-paps.png", Discovery Channel
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 
 //HGTV
@@ -57,11 +77,19 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 
+//NATGEO
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/pLJ25Nv1/logo-natgeo-big.png", National Geographic (Server MNC)
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+
 //NATGEOPEOPLE
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/QMNjp6xN/logo-natgeopeople-big.png", Natgeo People (Server MNC)
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/QMNjp6xN/logo-natgeopeople-big.png", National Geographic People (Server MNC)
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 
@@ -69,16 +97,13 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/hjfgYfdH/logo-natgeowild-big.png", Natgeo Wild (Server MNC)
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/hjfgYfdH/logo-natgeowild-big.png", National Geographic Wild (Server MNC)
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
-//NATGEOGRAPHIC
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/pLJ25Nv1/logo-natgeo-big.png", Nat Geographic (Server MNC)
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+//NASATV
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 //TLC
