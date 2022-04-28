@@ -118,16 +118,21 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 //DISNEYCHANNEL
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png", Disney Channel 1
-http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png", Disney Channel 1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png", Disney Channel 2
-http://103.47.132.165/PLTV/88888888/224/3221227183/2.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png", Disney Channel 3
-http://103.47.132.165:80/PLTV/88888888/224/3221227183/1.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227183/2.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png", Disney Channel 4
+http://103.47.132.165:80/PLTV/88888888/224/3221227183/1.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png", Disney Channel 5
 http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
 
 
@@ -249,6 +254,7 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png", Mentari TV (Server Vidio)
 https://etslive-2-vidio-com.akamaized.net/exp=1650841849~acl=/hls-p/ingest_8237_*/*~hmac=224ab936513b61380f9f8c8644f629ba99013694d53c080a7e33ca7454bce48a/hls-p/ingest_8237_720p/index.m3u8
 
+
 //MIAOMI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -272,8 +278,10 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/120px-Nick_Jr.logo.png", Nick Jr 1 (Server MNC)
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/120px-Nick_Jr.logo.png", Nick Jr 2 (Server MNC)
-https://liveanevia.mncnow.id/live/eds/nickjr/sa_dash_vmx/nickjr.mpd
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
 
 //PBSKIDS
