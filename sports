@@ -1,0 +1,49 @@
+#EXTM3U
+
+
+//BEINSPORTS
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png", beIN Sports (Server MNC)
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+
+
+//FOXSPORTS1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/RhsPxq2C/logo-foxsports1-big.png", FOX Sports1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
+
+
+//FOXSPORTS2
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/MKLssMyd/logo-foxsports2-big.png", FOX Sports2 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+
+
+//FOXSPORTS3
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/RFvG3cBV/logo-foxsports3-big.png", FOX Sports3 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+
+
+//MNCSPORTS
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/c6y5NHMJ/MNC-SPORTS.png", MNC Sports (Server MNC)
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+
+//SOCCERCHANNEL
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/5tSHBkkK/soccer-channel.png", Soccer Channel (Server MNC)
+https://liveanevia.mncnow.id/live/eds/SoccerChannel2/sa_dash_vmx/SoccerChannel2.mpd
