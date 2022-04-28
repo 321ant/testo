@@ -40,6 +40,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227145/3.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 6
 http://103.47.132.165:80/PLTV/88888888/224/3221227145/1.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 7
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
 
 //ANIPLUS
 
@@ -55,7 +57,10 @@ http://210.210.155.35/session/e4f17b74-9657-11ea-934d-b82a72d63267/dr9445/h/h02/
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", Aniplus 4
-http://210.210.155.35/session/840152f4-c392-11ea-9f5e-bcde8aa31917/dr9445/h/h02/index.m3u8 
+http://210.210.155.35/session/840152f4-c392-11ea-9f5e-bcde8aa31917/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", Aniplus 5
+http://45.126.83.51/dr9445/h/h02/01.m3u8
 
 
 //BABYTV
@@ -160,6 +165,12 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
+//FWTOON
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-110639.jpg", FW Toon
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+
+
 //GEMKIDS
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-kids-ae.png", GEM Kids 1
@@ -210,9 +221,21 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 
+//KURIAKOSKIDS
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://kuriakos-tvs.com/wp-content/uploads/2020/05/Kuriakos-kids.jpg", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+
+
 //LARVATV
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/474x/8a/ae/26/8aae26621d8ca525bef690cf55ec7ffd.jpg", Larva TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+
+//Lale
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg", Lale
+http://stream.atr.ua/lale//live/index.m3u8
 
 
 //LEGOCHANNEL
@@ -294,6 +317,12 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 
 #EXTINF:-1  group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png", Toonmax
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
+
+
+//TRTCOCUK
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070618.jpg", TRTcocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
 
 //TVOKIDS
