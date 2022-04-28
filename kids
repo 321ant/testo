@@ -329,7 +329,7 @@ http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 
 //TRTCOCUK
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070618.jpg", TRTcocuk
+#EXTINF:-1 group-title="KIDS" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070618.jpg", TRTcocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
 
