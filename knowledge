@@ -12,6 +12,11 @@
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/wBXjLmkQ/logo-afc-big.png", AFN (Server MNC)
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://dusktill.masuk.web.id/img/afn.png", AFN 
+https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
 
 //ANIMALPLANET
 
@@ -61,14 +66,6 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 
-//HGTV
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/s2nsKpvY/HGTV.png", HGTV (Server MNC)
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
-
 //HISTORY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -112,3 +109,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/DwGKL9TK/TLC.png", TLC (Server MNC)
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/Wtbc8Ch/tlc-lean-paps.png", TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
