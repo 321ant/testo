@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+//WAKUWAKU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="MIXED" tvg-logo="https://i.postimg.cc/cJd73kkL/logo-wakuwaku-big.png", Waku Waku Japan (Server MNC)
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
