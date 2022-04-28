@@ -1,5 +1,7 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 
 //AXN
 
@@ -82,49 +84,74 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 //FOX
 
-#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040516.png", FOX 1
-http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040516.png", FOX 1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 
 #EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040516.png", FOX 2
+http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8 
+
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040516.png", FOX 3
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
 
 //FOXACTION
 
-#EXTINF:-1 group-title="MOVIES" ttvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg", FOX Action 1
-http://103.47.132.165:80/PLTV/88888888/224/3221227121/1.m3u8 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="MOVIES" ttvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg", FOX Action 1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #EXTINF:-1 group-title="MOVIES" ttvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg", FOX Action 2
+http://103.47.132.165:80/PLTV/88888888/224/3221227121/1.m3u8 
+
+#EXTINF:-1 group-title="MOVIES" ttvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg", FOX Action 3
 http://203.153.218.28:9981/stream/channelid/1744735983
 
 
 //FOXFAMILY
 
-#EXTINF: -1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family 1 
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family 1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 
 #EXTINF: -1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family 2
-http://103.47.132.165:80/PLTV/88888888/224/3221227117/1.m3u8 
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
 
 #EXTINF: -1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family 3
+http://103.47.132.165:80/PLTV/88888888/224/3221227117/1.m3u8 
+
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family 4
 http://203.153.218.28:9981/stream/channelid/1949182550
 
 
 //FOXPREMIUM
 
-#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png", FOX PREMIUM 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png", FOX Premium 1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png", FOX Premium 2
 https://bit.ly/qingfmovies 
 
-#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png", FOX PREMIUM 2
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png", FOX Premium 3
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8 
 
-#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png", FOX PREMIUM 3
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png", FOX Premium 4
 #http://203.153.218.28:9981/stream/channelid/756717990
 
 
 //FOXCRIME
 
-#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040522.png", FOX Crime 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040522.png", FOX Crime 1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+#EXTINF: -1 group-title="MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040522.png", FOX Crime 2
 http://103.47.132.165:80/PLTV/88888888/224/3221227165/1.m3u8
 
 
@@ -146,6 +173,12 @@ http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 1 (Server MNC)
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 1 (Server MNC)
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 2
 https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8 
@@ -252,6 +285,14 @@ http://103.47.132.165/PLTV/88888888/224/3221227331/1.m3u8
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
+//LIFETIME
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8HzM9np/logo-lifetime-big.png", LifeTime (Server MNC)
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+
 //RED
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/250?cb=20210104162109", RED 1
@@ -276,6 +317,14 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png", Star Movies 
 http://103.47.132.165:80/PLTV/88888888/224/3221227147/1.m3u8
+
+
+//STARWORLD
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/9frJ5z13/10626664-ico.png", STAR World (Server MNC)
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
 
 //THRILL
@@ -307,6 +356,14 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 
+//ZEETV
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/mDQtdv1f/zeetv.png", Zee TV (Server MNC)
+#https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+
+
 //ZEEBIOSKOP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -314,3 +371,10 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/5NPcqypp/ZEE-tv.jpg,Zee", Zee Bioskop (Server MNC)
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+
+//ZEECINEMA
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/mDxPyLDy/ZEECINEMA.png", Zee Cinema (Server MNC)
+#https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
