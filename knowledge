@@ -74,6 +74,18 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 
+//LOVENATURE
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+
+//MOTORVISION
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/MOTORVISION_HD.jpg", Motorvision TV
+https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
+
+
 //NATGEO
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -99,8 +111,21 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
 //NASATV
+
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
+//OUTDOORCHANNEL
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/PJRkYwW4/download-2021-09-10-T032341-627.png", Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+
+//SMITHSONIANCHANNEL
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/RVfC96Dm/SMITHSONIAN.png", Smithsonian Channels
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
 //TLC
