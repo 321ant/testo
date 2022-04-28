@@ -1,136 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniLhYAQP2ymh7xj_8kIVYE1avm7nXomQZZzxYfKNQ=s900-c-k-c0x00ffffff-no-rj", KIDS
-https://w3ubin.com/QLURCWsEM.m3u
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-105212.jpg", ANIPLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png", Disney Channel (TH)"
-https://mediasv.online/tvchannel_x1/disney-channel/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png", Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png", Boomerang
-http://27.254.130.62/feed/chboomberang/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-104734.jpg", BabyTV
-http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif", Cartoon Club HD
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif", Cartoon Club HD
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-104944.png", Cartoon Network
-http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070534.jpg", Kuriakos kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg", Lale
-http://stream.atr.ua/lale//live/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-110639.jpg", FW TOON
-https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-104523.jpg", Toonee
-http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_320.png", Toonee
-http://27.254.130.62/feed/LC23/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg", Cartoon Network HD
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
- 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg", Cartoon Network HD
-https://doomovielive.b-cdn.net/sd-cartoonnetwork_480/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg", Cartoon Network HD
-http://keykingiptv.ddns.net/keyking/cn_keyking/chunks.m3u8
- 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png", Disney XD(true)
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png", Disney XD(true)
-http://keykingiptv.ddns.net/keyking/xd_keyking/playlist.m3u8",
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg", Animax
-http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg", Animax
-http://203.154.177.124:8899/live/ch5/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051703.jpg", Aniplus
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
 https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_720p/playlist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
 http://203.154.243.31:8081/live/boomerrang/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
 https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/boom.png", Boomerang
 https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
             
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
 https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/cartoonclub.png", Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070534.jpg", Kuriakos kids
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070534.jpg", Kuriakos kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg", Lale
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg", Lale
 http://stream.atr.ua/lale//live/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070609.jpg", TCT kids
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070609.jpg", TCT kids
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/toonee.png", Toonee
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/toonee.png", Toonee
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/toonee.png", Toonee
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://thaiip.tv/tvlogo2/toonee.png", Toonee
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070618.jpg", trtcocuk
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070618.jpg", trtcocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-PLAY-CH1_Thumb.png", true Spark Play
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-PLAY-CH1_Thumb.png", true Spark Play
 https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/playlist.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-PLAY-CH1_Thumb.png", true Spark Play
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-PLAY-CH1_Thumb.png", true Spark Play
 https://doomovielive.b-cdn.net/sd-sparkplay_480/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://www.doofree88.com/storage/live/JVDtH8vKrYbGxaIVgJqrEZOnGZiob7oKd8Cq93hH.png", true Spark Jump
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://www.doofree88.com/storage/live/JVDtH8vKrYbGxaIVgJqrEZOnGZiob7oKd8Cq93hH.png", true Spark Jump
 https://doomovielive.b-cdn.net/sd-sparkjump_480/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070629.jpg", WZra
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070629.jpg", WZra
 http://wpso.com:1936/hls/kidshd.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://www.doofree88.com/storage/live/zbyQCkVPuldER0SC2f4d8VSiWEZW2ZHJiVbAzh8H.png", bommerang
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://www.doofree88.com/storage/live/zbyQCkVPuldER0SC2f4d8VSiWEZW2ZHJiVbAzh8H.png", bommerang
 https://doomovielive.b-cdn.net/hd-mono_480/index.m3u8
 
-EXTINF:-1 group-title="MOVIES" tvg-logo=”https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png", nick jr
+#EXTINF:-1 group-title="MOVIES" tvg-logo=”https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png", nick jr
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
 //end
