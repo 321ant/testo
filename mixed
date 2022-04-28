@@ -16,6 +16,14 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 
+//ARIRANG
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="MIXED" tvg-logo="https://www.logolynx.com/images/logolynx/s_d2/d2e3e1556bd6dfe6462bff0dcfa0c575.jpeg", Arirang
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+
 //BBC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -107,6 +115,12 @@ https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 
+//K+
+
+#EXTINF:-1 group-title="MIXED" tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/k-plus-001.png", K+
+http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8
+
+
 //NHK
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -114,10 +128,15 @@ https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 group-title="MIXED" tvg-logo="https://www.logolynx.com/images/logolynx/s_97/97f121192e641251b80f61ab6a4b4349.jpeg", NHK World Japan
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://www.singtel.com/content/dam/singtel/business/sb/Product%20&%20Services/TV/catalog/ProductCatalog-AlaCarte-NHK-logo.jpg", NHK Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-//WAKUWAKU
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="MIXED" tvg-logo="https://i.postimg.cc/cJd73kkL/logo-wakuwaku-big.png", Waku Waku Japan (Server MNC)
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd//WAKUWAKU
+
