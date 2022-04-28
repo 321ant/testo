@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+//MNCMUSLIM
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.postimg.cc/XJLv0WWm/MUSLIM-TV.png", MNC Muslim (Server MNC)
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
