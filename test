@@ -347,7 +347,7 @@ http://ottactive.cx:80/A6C3812C3F36/099535D27732/63750
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 
 #EXTINF:-1, A3Bikini 2
-http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6165/index.m3u8
+#http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6165/index.m3u8
 
 #EXTINF:-1, A3Bikini 3
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8 
