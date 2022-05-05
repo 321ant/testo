@@ -39,6 +39,9 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTINF:-1 group-title="LIFESTYLE",Fashion TV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://assets.streamtest.in/logo/3234/203_fashion-tv-midnite-secrets.jpg?v=1577270478", Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+
 
 //FAILARMY
 
