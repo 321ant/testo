@@ -340,6 +340,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/600px-Animax_logo.svg.png?20141227192746" group-title="Kids",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+//ANIME TV
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME+TV.png" group-title="Kids",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
 //ANIPLUS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -393,10 +397,6 @@ https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 //DAVINCI
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci Learning" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_(2019-.n.v.).png/revision/latest?cb=20191031124005" group-title="Kids",Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-
-//DISNEY JUNIOR
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png" group-title="Kids",Disney Junior 
-http://103.153.39.36:8000/play/a020
 
 //DORATV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Dora TV
@@ -499,6 +499,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://w7.pngwing.com/pngs/757/383/png-transparent-pbs-kids-children-s-television-series-klru-green-kids-logo-television-child-leave-the-material.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+//PLUTO ALL DAYS
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="Kids",Pluto All Days
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 //POPMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-max-uk.png" group-title="Kids",POP Max
 #kidhttps://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
@@ -532,11 +536,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623301101-.png" group-title="Kids",xMy Kidz 
 http://rr.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Pluto All Days
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 /// NEWS ///
