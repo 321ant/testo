@@ -328,11 +328,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 //3ABN KIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.pinimg.com/originals/41/f9/ef/41f9efdd5c0714b36bb78d7c2cc57e00.jpg"group-title="Kids",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
-#https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 //ABCKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" vg-logo="https://www.lyngsat.com/logo/tv/aa/abc-kids-au.png" group-title="Kids",ABC Kids
-#bhttps://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+bhttps://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 
 //ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -417,7 +416,7 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 //FWTOON
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-110639.jpg" group-title="Kids",FW Toon
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.imgur.com/eQHvpkV.png" group-title="Kids",FW Toon
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
 //GEMJUNIOR
@@ -432,7 +431,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
 
 //GONGMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://tvepg.eu/img/france/logo/gong_max.png" group-title="Kids",Gong Max TV
-#http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 //HAPPYKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png" group-title="Kids",Happy Kids
@@ -466,17 +465,17 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 
 //MENTARI TV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
-#https://etslive-2-vidio-com.akamaized.net/exp=1650841849~acl=/hls-p/ingest_8237_*/*~hmac=224ab936513b61380f9f8c8644f629ba99013694d53c080a7e33ca7454bce48a/hls-p/ingest_8237_720p/index.m3u8
-
-//MY KIDS
-#EXTINF : tvg-id="Mykidz.MACAN" tvg-name="N/A" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623301101-.png" group-title="Kids",My Kidz 
-http://rr.dens.tv/h/h191/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1650841849~acl=/hls-p/ingest_8237_*/*~hmac=224ab936513b61380f9f8c8644f629ba99013694d53c080a7e33ca7454bce48a/hls-p/ingest_8237_720p/index.m3u8
 
 //MIAOMI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.postimg.cc/43LnnKR3/10460173-ico.png" group-title="Kids",Miao Mi
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+//MY KIDS
+#EXTINF:-1 tvg-id="Mykidz.MACAN" tvg-name="N/A" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623301101-.png" group-title="Kids",My Kidz 
+http://rr.dens.tv/h/h191/index.m3u8
 
 //NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -505,7 +504,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a6
 
 //POPMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-max-uk.png" group-title="Kids",POP Max
-#kidhttps://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 
 //SPACETOON
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_indonesia.png" group-title="Kids",Spacetoon
@@ -527,14 +526,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon" group-title="Kids" group-title="Kids",xCartoon 3
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Kids",xCartoon 3
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon" group-title="Kids" group-title="Kids",xCartoon 6
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Kids",xCartoon 6
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623301101-.png" group-title="Kids",xMy Kidz 
-http://rr.dens.tv/h/h191/index.m3u8
 
 
 
