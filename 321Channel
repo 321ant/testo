@@ -10,7 +10,7 @@
 
 //ADI TV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://aditv.co.id/wp-content/uploads/2018/03/aditv.png" group-title="Local",ADI TV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+https://v2.siar.us/aditv/livestream/playlist.m3u8
 
 //ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
