@@ -80,13 +80,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png" group-title="Local",Indosiar
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+#https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1650834645~acl=/hls-p/ingest_205_*/*~hmac=653fb30cba219b8d879b9dbd65fad1cddeaf3126a42bd134dc1714a6e9991ceb/hls-p/ingest_205_720p/index.m3u8
 
 //INEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="INews.id" tvg-name="iNews" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="Local",iNews
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 //JAK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -95,7 +96,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 //JAKARTA GLOBE
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" group-title="Local",Jakarta Globe
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://dev.firstmedia.com:8443/files/packages/LOGO-JAKARTA-GLOBE-news-channel.jpg" group-title="Local",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 //JITV
