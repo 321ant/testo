@@ -77,6 +77,11 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="DaaiTv.MACAN" tvg-name="DAAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsESlZzrBmSfJgLESkGisoFXxwQRGlqzIDDA&s" group-title="Local",DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#http://rr2.dens.tv/s/s13/index.m3u8
+
+//ELSHINTA
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Local", Elshinta TV
+http://rr2.dens.tv/s/s10/index10.m3u8
 
 //GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -157,6 +162,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Local",Metro TV (Backup)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#http://rr.dens.tv/h/h12/index.m3u8
 
 //MNC NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -272,6 +278,7 @@ https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Local",TRANS 7 (Backup)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+#http://rr.dens.tv/h/h11/index.m3u8
 
 //TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -282,6 +289,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png" group-title="Local",TransTV (Backup)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
+#http://rr2.dens.tv/s/s05/index.m3u8
 
 //TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -292,6 +300,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Local",TVOne (Backup)
 #http://210.210.155.35/session/62297500-c886-11ea-934d-b82a72d63267/qwr9ew/s/s105/01.m3u8
 #http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+http://rr2.dens.tv/s/s105/index3.m3u8
 
 //TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,6 +310,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="Local",TVRI (Backup)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#http://rr2.dens.tv/s/s11/index10.m3u8
 
 //USEE PHOTO
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.ibb.co/zXb9cGt/useephoto-lean-paps.png" group-title="Local",Usee Photo
