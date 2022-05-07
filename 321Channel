@@ -326,7 +326,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 /// KIDS ///
 
 //3ABN KIDS
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.pinimg.com/originals/41/f9/ef/41f9efdd5c0714b36bb78d7c2cc57e00.jpg"group-title="Kids",3ABN Kids
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.pinimg.com/originals/41/f9/ef/41f9efdd5c0714b36bb78d7c2cc57e00.jpg" group-title="Kids",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 
 //ABCKIDS
@@ -431,7 +431,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
 
 //GONGMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://tvepg.eu/img/france/logo/gong_max.png" group-title="Kids",Gong Max TV
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 //HAPPYKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png" group-title="Kids",Happy Kids
@@ -525,12 +525,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 //ZOOMOO
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Kids",xCartoon 3
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Kids",xCartoon 6
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 
 
