@@ -364,8 +364,7 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 //BIZNETKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://rubbyguntara.github.io/src/img/bizkids.png" group-title="Kids",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil
-#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 //BLACKBERRYCARTOON
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.imgur.com/m7dgYjL.jpg" group-title="Kids",Blacberry Cartoon
@@ -422,12 +421,12 @@ https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist
 //GEMJUNIOR
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-junior-ae.png" group-title="Kids",GEM Junior
 #http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/01.m3u8
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+#http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
 
 //GEMKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-kids-ae.png" group-title="Kids",GEM Kids
 #http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/04.m3u8
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+#http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
 
 //GONGMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://tvepg.eu/img/france/logo/gong_max.png" group-title="Kids",Gong Max TV
@@ -465,7 +464,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 
 //MENTARI TV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
-https://etslive-2-vidio-com.akamaized.net/exp=1650841849~acl=/hls-p/ingest_8237_*/*~hmac=224ab936513b61380f9f8c8644f629ba99013694d53c080a7e33ca7454bce48a/hls-p/ingest_8237_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1650841849~acl=/hls-p/ingest_8237_*/*~hmac=224ab936513b61380f9f8c8644f629ba99013694d53c080a7e33ca7454bce48a/hls-p/ingest_8237_720p/index.m3u8
 
 //MIAOMI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -504,7 +503,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a6
 
 //POPMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-max-uk.png" group-title="Kids",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 
 //SPACETOON
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_indonesia.png" group-title="Kids",Spacetoon
@@ -515,7 +514,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 
 //TRTCOCUK
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg" group-title="Kids",TRTcocuk
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRTcocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
 //TVO KIDS
