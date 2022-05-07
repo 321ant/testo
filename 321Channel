@@ -47,7 +47,7 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" tvg-name="Berita Satu" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="Local",Berita Satu
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="Local",Berita Satu [Backup]
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="Local",Berita Satu (Backup)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -72,7 +72,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 
 #EXTINF:-1 tvg-id="CNN.id" tvg-name="CNN" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png" group-title="Local",CNN Indonesia (Backup)
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 //DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -99,8 +99,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Local",Indosiar
 #https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #https://etslive-2-vidio-com.akamaized.net/exp=1650834645~acl=/hls-p/ingest_205_*/*~hmac=653fb30cba219b8d879b9dbd65fad1cddeaf3126a42bd134dc1714a6e9991ceb/hls-p/ingest_205_720p/index.m3u8
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-#http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+#https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Local",Indosiar (Backup)
 #http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
@@ -245,8 +245,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Local",SCTV (Backup)
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-#http://rr2.dens.tv/s/s03/index.m3u8
+#https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+http://rr2.dens.tv/s/s03/index.m3u8
 
 //TATV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Local",TA TV
@@ -286,7 +286,6 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Local",TVOne (Backup)
 #http://210.210.155.35/session/62297500-c886-11ea-934d-b82a72d63267/qwr9ew/s/s105/01.m3u8
 #http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-
 
 //TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
