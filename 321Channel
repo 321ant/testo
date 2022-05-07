@@ -337,7 +337,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 //ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AnimaxAsia.jpKvSs3/CVZXS.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="AnimaxAsia.jpKvSs3/CVZXS.png" group-title="Kids",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 //ANIPLUS
@@ -347,6 +347,11 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
+//BABYFIRST
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://macan.network/img/babyfirst.jpg" group-title="Kids",Baby First
+#https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+
 //BABYTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -354,18 +359,14 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 #https://liveanevia.mncnow.id/live/eds/BabyTV/sa_dash_vmx/BabyTV.mpd
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-//BABYFIRST
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://macan.network/img/babyfirst.jpg" group-title="Kids",Baby First
-#https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
-http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-
 //BIZNETKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://rubbyguntara.github.io/src/img/bizkids.png" group-title="Kids",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 //BLACKBERRYCARTOON
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.imgur.com/m7dgYjL.jpg" group-title="Kids",Blacberry Cartoon
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
 
 //BOOMERANG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -386,8 +387,26 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 //CONTV
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",CONTV Anime
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://cdn.knoji.com/images/logo/contvcom.jpg" group-title="Kids",CONTV Anime
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+
+//DAVINCI
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci Learning" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_(2019-.n.v.).png/revision/latest?cb=20191031124005" group-title="Kids",Da Vinci
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
+//DISNEY JUNIOR
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png" group-title="Kids",Disney Junior 
+http://103.153.39.36:8000/play/a020
+
+//DORATV
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+//DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="N/A" tvg-logo="https://i.postimg.cc/W3qp3X79/logo-dreamworks-big1.png" group-title="Kids",DreamWorks 
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 //DUCKTV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="Kids",Duck TV
@@ -401,20 +420,22 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-110639.jpg" group-title="Kids",FW Toon
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
-//GEMKIDS
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-kids-ae.png" group-title="Kids",GEM Kids
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/04.m3u8
-
 //GEMJUNIOR
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-junior-ae.png" group-title="Kids",GEM Junior
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/01.m3u8
+#http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/01.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+
+//GEMKIDS
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-kids-ae.png" group-title="Kids",GEM Kids
+#http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/04.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
 
 //GONGMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://tvepg.eu/img/france/logo/gong_max.png" group-title="Kids",Gong Max TV
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 //HAPPYKIDS
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png" group-title="Kids",Happy Kids Jr
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png" group-title="Kids",Happy Kids
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 //KABILLION
@@ -427,25 +448,29 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="KidsTV.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids",Kids TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-//KURIAKOSKIDS
+//KURIAKOS KIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://kuriakos-tvs.com/wp-content/uploads/2020/05/Kuriakos-kids.jpg" group-title="Kids",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 
-//LARVATV
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.pinimg.com/474x/8a/ae/26/8aae26621d8ca525bef690cf55ec7ffd.jpg" group-title="Kids",Larva TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-
 //Lale
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg" group-title="Kids",Lale
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://1.bp.blogspot.com/-S7DN5DLVg9M/UcK6urJhsoI/AAAAAAAAaZk/-Sc4doD9grk/s1600/Lale+logo+2013.png" group-title="Kids",Lale
 http://stream.atr.ua/lale//live/index.m3u8
 
-//LEGOCHANNEL
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",The Official LEGO Channel
+//LEGO
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",LEGO
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 
-//MENTARITV
+//LEGO TOONS
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png" group-title="Kids",Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+//MENTARI TV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
-https://etslive-2-vidio-com.akamaized.net/exp=1650841849~acl=/hls-p/ingest_8237_*/*~hmac=224ab936513b61380f9f8c8644f629ba99013694d53c080a7e33ca7454bce48a/hls-p/ingest_8237_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1650841849~acl=/hls-p/ingest_8237_*/*~hmac=224ab936513b61380f9f8c8644f629ba99013694d53c080a7e33ca7454bce48a/hls-p/ingest_8237_720p/index.m3u8
+
+//MY KIDS
+#EXTINF : tvg-id="Mykidz.MACAN" tvg-name="N/A" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623301101-.png" group-title="Kids",My Kidz 
+http://rr.dens.tv/h/h191/index.m3u8
 
 //MIAOMI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -462,25 +487,21 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 //NICKJR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NickJrAsia.us" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="Kids",Nick Junior
+#EXTINF:-1 tvg-id="NickJrAsia.us" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="Kids",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+
+//NICK JR PLUTO TV
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Nick Jr Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 //PBSKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://w7.pngwing.com/pngs/757/383/png-transparent-pbs-kids-children-s-television-series-klru-green-kids-logo-television-child-leave-the-material.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-//DORATV
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-//PLUTO TV
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 //POPMAX
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-max-uk.png" group-title="Kids",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#kidhttps://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 
 //SPACETOON
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_indonesia.png" group-title="Kids",Spacetoon
@@ -491,7 +512,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 
 //TRTCOCUK
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo=”https://il.mahidol.ac.th/upload/img/2020-08-28-070618.jpg" group-title="Kids",TRTcocuk
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg" group-title="Kids",TRTcocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
 //TVO KIDS
@@ -502,6 +523,20 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon" group-title="Kids" group-title="Kids",xCartoon 3
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon" group-title="Kids" group-title="Kids",xCartoon 6
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623301101-.png" group-title="Kids",xMy Kidz 
+http://rr.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Pluto All Days
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 /// NEWS ///
