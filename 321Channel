@@ -737,114 +737,153 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="Movies",ZEE Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-//ZEECINEMA
+//ZEE CINEMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.postimg.cc/mDxPyLDy/ZEECINEMA.png" group-title="Movies",Zee Cinema
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+#https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 
 //ZEE TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://i.postimg.cc/mDQtdv1f/zeetv.png" group-title="Movies",Zee TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+#https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 
 
 
 /// NEWS ///
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="https://i.ibb.co/SmMjGyq/zcaa.png" group-title="News",SEA Today
-https://liveanevia.mncnow.id/live/eds/Sea-Channel/sa_dash_vmx/Sea-Channel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="IDXChannel.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="News",IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW" tvg-logo="https://i.ibb.co/1MjwL56/vgj.png" group-title="News",DW English
-https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ArirangWorld.kr" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcpXTchXNWSXsL7OmGB99BXmvv1kHtLE_l6tNZG573YxRp1z_WP9u19I&s=0" group-title="News",Arirang
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CNBCAsiaPacific.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfL9btJA-TcEVbl1Z9EbhFi8ebl_MIms4-GWzB&s=0" group-title="News",CNBC Asia
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="BLOOMBERG" tvg-logo="https://i.ibb.co/W6SJcZT/xdghf.png" group-title="News",BLOOMBERG
-https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9Bs1Uu-0couKyhneb6fQowKGmMPY4O1PKYUR&s=0" group-title="News",EuroNews
-https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_353.png" group-title="News", CGTN
-https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
-
+//AJ JAZEERA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="AljazeeraEnglish.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUvPqgdeNV5irnOvk-NvJk_wDwqCXc51y6tL4OMgk&s=0" group-title="News",AL JAZEERA English
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
+//ABC NEW
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+//ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:- tvg-id="FoxNewsChannel.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIdF0ApbjUwluXSC5Dq4yrMv2vKdUn9Besg&usqp=CAU" group-title="News",Fox News
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAc0SIqv9O7zUJGJbnCF_EtuvhzCelscYDbg&usqp=CAU" group-title="News",ABC Australia
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-
+//ARIRANG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="France24English.fr" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_352.png" group-title="News",France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcpXTchXNWSXsL7OmGB99BXmvv1kHtLE_l6tNZG573YxRp1z_WP9u19I&s=0" group-title="News",Arirang
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
+//BBC WORLD NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World" tvg-logo="https://i.ibb.co/R6y6tD4/hfhc.png" group-title="News",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
+//BLOOMBERG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="News",TRT World
-https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="BLOOMBERG" tvg-logo="https://i.ibb.co/W6SJcZT/xdghf.png" group-title="News",Bloomberg
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
+//CBS NEWS
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="News",CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+//CGN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://wwitv.com/tvlogos/b1527.jpg" group-title="News",RT English
-https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_353.png" group-title="News",CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
+//CHANNEL NEWS ASIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ABCAustraliaAsia.au" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAc0SIqv9O7zUJGJbnCF_EtuvhzCelscYDbg&usqp=CAU" group-title="News",ABC Australia
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+#EXTINF:-1 tvg-id="ChannelNewsAsia.MACAN" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_newsasia_small.png?v=2.0.0.13" group-title="News",News Asia Channel
+https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
+//CHEDDAR NEWS
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="News",Cheddar News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+
+//CNBC ASIA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CNBCAsiaPacific.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfL9btJA-TcEVbl1Z9EbhFi8ebl_MIms4-GWzB&s=0" group-title="News",CNBC Asia
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+//CNN INTERNATIONAL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN Internatioal" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="News",CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
+//DW ENGLISH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ChannelNewsAsia.MACAN" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_newsasia_small.png?v=2.0.0.13" group-title="News",News Asia Channel
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW" tvg-logo="https://i.ibb.co/1MjwL56/vgj.png" group-title="News",DW English
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
+//EURO NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9Bs1Uu-0couKyhneb6fQowKGmMPY4O1PKYUR&s=0" group-title="News",EuroNews
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+//FOX NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIdF0ApbjUwluXSC5Dq4yrMv2vKdUn9Besg&usqp=CAU" group-title="News",Fox News
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+//FRANCE 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_352.png" group-title="News",France 24
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+//IDX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="News",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+//NEWS 1
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="News",News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+
+//NEWS MAX
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="News",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+
+//NHK WOLRD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NHKWorld.MACAN" tvg-name="nhk World" tvg-logo="https://i.ibb.co/GVHqZgm/dyt.png" group-title="News",NHK World
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
+//RT ENGLISH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wwitv.com/tvlogos/b1527.jpg" group-title="News",RT English
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
+//SEA TODAY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="https://i.ibb.co/SmMjGyq/zcaa.png" group-title="News",SEA Today
+https://liveanevia.mncnow.id/live/eds/Sea-Channel/sa_dash_vmx/Sea-Channel.mpd
+
+//TOP NEWS
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="News",TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+
+//TRT WORLD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="News",TRT World
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 
 
