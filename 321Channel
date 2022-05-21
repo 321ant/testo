@@ -970,19 +970,19 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 //ASTRO
 #EXTINF:-1 group-title="Sports", ASTRO ARENA
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
 
 #EXTINF:-1 group-title="Sports", Astro SuperSport HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6708
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6708
 
 #EXTINF:-1 group-title="Sports", Astro SuperSport 2 HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6710
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6710
 
 #EXTINF:-1 group-title="Sports", Astro SuperSport 3 HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6711
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6711
 
 #EXTINF:-1 group-title="Sports", Astro SuperSport 4 HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
+#http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
 
 //BEIN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -997,13 +997,13 @@ https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 //CHAMPIONS TV
 #EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 1
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+#https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 2
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+#https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 3
-https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
+#https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 
 //FIGHT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1025,18 +1025,18 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 //SUKAN RTM
-#EXTINF:0 tvg-id="ext" group-title="Sports",SuKan RTM
+#EXTINF:0 tvg-id="" group-title="Sports",SuKan RTM
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 //UNIFI SPORT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" group-title="Sports",Unifi Sport1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848" group-title="Sports",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" group-title="Sports",Unifi Sport2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://logos.fandom.com/wiki/Unifi_Sports_2" group-title="Sports",Unifi Sport 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
