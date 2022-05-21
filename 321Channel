@@ -1229,27 +1229,102 @@ https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 /// MUSIC ///
 
+//9XM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/UaHtwO2.png?v=1.0.0.1" group-title="Music",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+//B4U MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/D3WXba7.png?v=1.0.0.1" group-title="Music",B4U Music
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/70.m3u8
+
 //CHANNEL V
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ChannelVInternational.hk" tvg-name="Channel [V] HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_272.jpg" group-title="Music",Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
+//CITRA DANGDUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/FGSb1Vw.png?v=1.0.0.1" group-title="Music",Citra Dangdut
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
+
+//DENS SHOWBIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/72cFzWc/102-removebg-preview.png" group-title="Music",Dens ShowBiz
+http://rr3.dens.tv/s/s35/index.m3u8
+
+//MOLA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title="Music",MOLATV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
 //MUSIC CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNY5vN7Pb9Y6K9ULINdY4bZNYqLEqVIGcOxw&s" group-title="Music",Music TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="Music",Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="Music", MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+//MTV
+#EXTINF:-1 tvg-id="mtvhd" tvg-name="" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png" group-title="Music",MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Music", MTV Block Party
+//MTV BIGGEST POP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mtvbiggestpop.png" group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mtvbiggestpop.png" group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+//MTV BLOCK PARTY
+#EXTINF:-1 vg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mtvblockparty.png" group-title="Music",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
-#EXTINF:-1 group-title="Music", MTV Spankin New
+//MTV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/2cS8N7R.png?v=1.0.0.1" group-title="Music",MTV Live
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+
+//MTV SPANKIN NEW
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music",MTV Spankin New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
-#EXTINF:-1 group-title="Music", MTV WMA
+//MTV WMA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+//MTV YO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Music",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+//MUSIC TOP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE0y1Jo7mTOM6X78bwRQ8BoZ6TgHZnXk2hZE9wmOEfhtrOIae7" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+//POP MUSIK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="Music",POP MUSIK
+#https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+
+//RETRO MUSIC TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://i.imgur.com/GbUL7p4.png group-title="Music",MM
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://i.ibb.co/WP89bNF/image-10.png group-title="Music",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://i.imgur.com/GbUL7p4.png group-title="Music",Metal TV
+http://v1.catcast.me/content/33816/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
