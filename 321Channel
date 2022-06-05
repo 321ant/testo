@@ -1,18 +1,12 @@
-#EXTM3U url-tvg="https://bit.ly/3itZsSm"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
-#EXTM3U x-url-tvg="https://bit.ly/3itZsSm"
+
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
-
-
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="", Screen Saver
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-
 
 
 /// 321 LOCAL ///
@@ -781,7 +775,7 @@ http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/70.m3u8
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 //CMT MUSIC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kindpng.com/picc/m/403-4034271_cmt-music-logo-png-transparent-png.png",CMT Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kindpng.com/picc/m/403-4034271_cmt-music-logo-png-transparent-png.png" group-title="Music",CMT Music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 //MOLA HITS TV
