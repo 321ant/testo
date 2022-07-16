@@ -1,324 +1,925 @@
 #EXTM3U
-#EXTINF:-1 ,XXX DORCEL
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355205
-#EXTINF:-1 ,XXX DUSK
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355204
 
+//24H-XXX
+#EXTINF:-1 group-title="24H-XXX",Adulto01
+http://loadbl2.online:8080/fatima4335/megatv1/440948
+#EXTINF:-1 group-title="24H-XXX",Adulto02
+http://loadbl2.online:8080/fatima4335/megatv1/440949
+#EXTINF:-1 group-title="24H-XXX",Adulto03
+http://loadbl2.online:8080/fatima4335/megatv1/440950
+#EXTINF:-1 group-title="24H-XXX",Adulto04
+http://loadbl2.online:8080/fatima4335/megatv1/440951
+#EXTINF:-1 group-title="24H-XXX",Adulto05
+http://loadbl2.online:8080/fatima4335/megatv1/440952
+#EXTINF:-1 group-title="24H-XXX",Adulto06
+http://loadbl2.online:8080/fatima4335/megatv1/440953
+#EXTINF:-1 group-title="24H-XXX",Adulto07
+http://loadbl2.online:8080/fatima4335/megatv1/440954
+#EXTINF:-1 group-title="24H-XXX",Adulto08
+http://loadbl2.online:8080/fatima4335/megatv1/440955
+#EXTINF:-1 group-title="24H-XXX",Adulto09
+http://loadbl2.online:8080/fatima4335/megatv1/440956
+#EXTINF:-1 group-title="24H-XXX",Adulto10
+http://loadbl2.online:8080/fatima4335/megatv1/440957
+#EXTINF:-1 group-title="24H-XXX",Adulto11
+http://loadbl2.online:8080/fatima4335/megatv1/440958
+#EXTINF:-1 group-title="24H-XXX",Adulto12
+http://loadbl2.online:8080/fatima4335/megatv1/440959
+#EXTINF:-1 group-title="24H-XXX",Adulto13
+http://loadbl2.online:8080/fatima4335/megatv1/440960
+#EXTINF:-1 group-title="24H-XXX",Adulto14
+http://loadbl2.online:8080/fatima4335/megatv1/440961
+#EXTINF:-1 group-title="24H-XXX",Adulto15
+http://loadbl2.online:8080/fatima4335/megatv1/440962
+#EXTINF:-1 group-title="24H-XXX",Adulto16
+http://loadbl2.online:8080/fatima4335/megatv1/440963
+#EXTINF:-1 group-title="24H-XXX",Adulto17
+http://loadbl2.online:8080/fatima4335/megatv1/440964
+#EXTINF:-1 group-title="24H-XXX",Adulto18
+http://loadbl2.online:8080/fatima4335/megatv1/440965
+#EXTINF:-1 group-title="24H-XXX",Adulto19
+http://loadbl2.online:8080/fatima4335/megatv1/440966
+#EXTINF:-1 group-title="24H-XXX",Adulto20
+http://loadbl2.online:8080/fatima4335/megatv1/440967
+#EXTINF:-1 group-title="24H-XXX",Adulto21
+http://loadbl2.online:8080/fatima4335/megatv1/440968
+#EXTINF:-1 group-title="24H-XXX",Adulto22
+http://loadbl2.online:8080/fatima4335/megatv1/440969
+#EXTINF:-1 group-title="24H-XXX",Adulto23
+http://loadbl2.online:8080/fatima4335/megatv1/440970
+#EXTINF:-1 group-title="24H-XXX",Adulto24
+http://loadbl2.online:8080/fatima4335/megatv1/440971
+#EXTINF:-1 group-title="24H-XXX",Adulto25
+http://loadbl2.online:8080/fatima4335/megatv1/440972
+#EXTINF:-1 group-title="24H-XXX",Adulto26
+http://loadbl2.online:8080/fatima4335/megatv1/440973
+#EXTINF:-1 group-title="24H-XXX",Adulto27
+http://loadbl2.online:8080/fatima4335/megatv1/440974
+#EXTINF:-1 group-title="24H-XXX",Adulto28
+http://loadbl2.online:8080/fatima4335/megatv1/440975
+#EXTINF:-1 group-title="24H-XXX",Adulto29
+http://loadbl2.online:8080/fatima4335/megatv1/440976
+#EXTINF:-1 group-title="24H-XXX",Adulto30
+http://loadbl2.online:8080/fatima4335/megatv1/440977
+#EXTINF:-1 group-title="24H-XXX",Adulto31
+http://loadbl2.online:8080/fatima4335/megatv1/440978
+#EXTINF:-1 group-title="24H-XXX",Adulto32
+http://loadbl2.online:8080/fatima4335/megatv1/440979
+#EXTINF:-1 group-title="24H-XXX",Adulto33
+http://loadbl2.online:8080/fatima4335/megatv1/440980
+#EXTINF:-1 group-title="24H-XXX",Adulto34
+http://loadbl2.online:8080/fatima4335/megatv1/440981
+#EXTINF:-1 group-title="24H-XXX",Adulto35
+http://loadbl2.online:8080/fatima4335/megatv1/440982
+#EXTINF:-1 group-title="24H-XXX",Adulto36
+http://loadbl2.online:8080/fatima4335/megatv1/440983
+#EXTINF:-1 group-title="24H-XXX",Adulto37
+http://loadbl2.online:8080/fatima4335/megatv1/440984
+#EXTINF:-1 group-title="24H-XXX",Adulto38
+http://loadbl2.online:8080/fatima4335/megatv1/440985
+#EXTINF:-1 group-title="24H-XXX",Adulto39
+http://loadbl2.online:8080/fatima4335/megatv1/440986
+#EXTINF:-1 group-title="24H-XXX",Adulto40
+http://loadbl2.online:8080/fatima4335/megatv1/440987
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 01
+http://loadbl2.online:8080/fatima4335/megatv1/440988
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 02
+http://loadbl2.online:8080/fatima4335/megatv1/440989
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 03
+http://loadbl2.online:8080/fatima4335/megatv1/440990
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 04
+http://loadbl2.online:8080/fatima4335/megatv1/440991
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 05
+http://loadbl2.online:8080/fatima4335/megatv1/440992
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 06
+http://loadbl2.online:8080/fatima4335/megatv1/440993
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 07
+http://loadbl2.online:8080/fatima4335/megatv1/440994
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 08
+http://loadbl2.online:8080/fatima4335/megatv1/440995
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 09
+http://loadbl2.online:8080/fatima4335/megatv1/440996
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 10
+http://loadbl2.online:8080/fatima4335/megatv1/440997
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 11
+http://loadbl2.online:8080/fatima4335/megatv1/440998
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 12
+http://loadbl2.online:8080/fatima4335/megatv1/440999
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 14
+http://loadbl2.online:8080/fatima4335/megatv1/441001
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 15
+http://loadbl2.online:8080/fatima4335/megatv1/441002
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 16
+http://loadbl2.online:8080/fatima4335/megatv1/441003
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 17
+http://loadbl2.online:8080/fatima4335/megatv1/441004
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 18
+http://loadbl2.online:8080/fatima4335/megatv1/441005
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 19
+http://loadbl2.online:8080/fatima4335/megatv1/441006
+#EXTINF:-1 group-title="24H-XXX",AdultoGAY 20
+http://loadbl2.online:8080/fatima4335/megatv1/441007
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 01
+http://loadbl2.online:8080/fatima4335/megatv1/441008
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 02
+http://loadbl2.online:8080/fatima4335/megatv1/441009
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 03
+http://loadbl2.online:8080/fatima4335/megatv1/441010
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 04
+http://loadbl2.online:8080/fatima4335/megatv1/441011
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 05
+http://loadbl2.online:8080/fatima4335/megatv1/441012
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 06
+http://loadbl2.online:8080/fatima4335/megatv1/441013
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 07
+http://loadbl2.online:8080/fatima4335/megatv1/441014
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 08
+http://loadbl2.online:8080/fatima4335/megatv1/441015
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 09
+http://loadbl2.online:8080/fatima4335/megatv1/441016
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 10
+http://loadbl2.online:8080/fatima4335/megatv1/441017
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 11
+http://loadbl2.online:8080/fatima4335/megatv1/441018
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 12
+http://loadbl2.online:8080/fatima4335/megatv1/441019
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 13
+http://loadbl2.online:8080/fatima4335/megatv1/441020
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 14
+http://loadbl2.online:8080/fatima4335/megatv1/441021
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 15
+http://loadbl2.online:8080/fatima4335/megatv1/441022
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 16
+http://loadbl2.online:8080/fatima4335/megatv1/441023
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 17
+http://loadbl2.online:8080/fatima4335/megatv1/441024
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 18
+http://loadbl2.online:8080/fatima4335/megatv1/441025
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 19
+http://loadbl2.online:8080/fatima4335/megatv1/441026
+#EXTINF:-1 group-title="24H-XXX",AdultoTRANS 20
+http://loadbl2.online:8080/fatima4335/megatv1/441027
 
-#EXTINF:-1 ,XXX Evil Angel FHD 1080P_By : iptvm3uadult.blogspot.com
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355279
-#EXTINF:-1 ,XXX Fake Taxi FHD 1080p
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355278
+//a3BIKINI
+#EXTINF:-1 group-title="SEXY",a3BIKINI
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/55196
 
-#EXTINF:-1 ,REDLIGHT HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355239
-#EXTINF:-1 ,PLAYBOY TV_By : iptvm3uadult.blogspot.com
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355238
-#EXTINF:-1 ,PENTHOUSE
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355237
-#EXTINF:-1 ,JASMIN
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355236
-#EXTINF:-1 ,EROX
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355234
-#EXTINF:-1 ,DORCEL_By : iptvm3uadult.blogspot.com
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355233
+//Adult Channel 1
+#EXTINF:-1 group-title="FAVOURITE",Adult Channel 1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290567
 
-#EXTINF:-1 ,HUSTLER HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355231
-#EXTINF:-1 ,PRIVATE HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355230
-#EXTINF:-1 ,XXX: Dorcel FHD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355229
-#EXTINF:-1 ,XXX: Red Light FHD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355228
-#EXTINF:-1 ,XXX: Hustler FHD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355227
-#EXTINF:-1 ,XXX: Blue Hustler HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355226
-#EXTINF:-1 ,XXX: Brazzers TV FHD_By : iptvm3uadult.blogspot.com
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355225
-#EXTINF:-1 ,XXX: XXL HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355222
-#EXTINF:-1 ,XXX EROTIC 1_By : iptvm3uadult.blogspot.com
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355218
-#EXTINF:-1 ,XXX EROTIC 3
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355217
-#EXTINF:-1 ,XXX EROTIC 5
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355215
-#EXTINF:-1 ,XXX EROTIC 6
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355214
-#EXTINF:-1 ,XXX EROTIC 7
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355213
-#EXTINF:-1 ,XXX EROTIC 8
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355212
-#EXTINF:-1 ,XXX ADULT 4K
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355211
-#EXTINF:-1 ,XXX O-La-La
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355208
-#EXTINF:-1 ,XXX JAPANHDV FHD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355207
-#EXTINF:-1 ,XXX BRAZZERS TV EUROPE
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355206
-#EXTINF:-1 ,XXX ERO-X
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355203
-#EXTINF:-1 ,XXX EROXXX_By : iptvm3uadult.blogspot.com
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355202
-#EXTINF:-1 ,XXX FRENCHLOVER
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355201
-#EXTINF:-1 ,XXX Barely Legal
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355200
-#EXTINF:-1 ,XXX HUSTLER TV
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355198
-#EXTINF:-1 ,XXX PASSIEXXX
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355197
-#EXTINF:-1 ,XXX: PASSIONXXX
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355196
-#EXTINF:-1 ,XXX: PENTHOUSE QUICKIES
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355195
-#EXTINF:-1 ,XXX PENTHOUSE GOLD HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355194
-#EXTINF:-1 ,XXX PENTHOUSE PASSION HD_By : iptvm3uadult.blogspot.com
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355193
-#EXTINF:-1 ,XXX PRIVATE
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355192
-#EXTINF:-1 ,XXX PRIVATE HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355191
-#EXTINF:-1 ,XXX PlayBoy TV
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355190
-#EXTINF:-1 ,XXX: SCT
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355189
+//ALBA XXX
+#EXTINF:-1 group-title="ALBA",Alba XXX 6
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8312
+#EXTINF:-1 group-title="ALBA",Alba XXX HD1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8311
+#EXTINF:-1 group-title="ALBA",Alba XXX HD2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8310
+#EXTINF:-1 group-title="ALBA",Alba XXX HD3
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8315
+#EXTINF:-1 group-title="ALBA",Alba XXX HD4
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8314
+#EXTINF:-1 group-title="ALBA",Alba XXX HD5
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8313
+#EXTINF:-1 group-title="ALBA",Alba XXX HD6
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3307
+#EXTINF:-1 group-title="ALBA",Alba XXX HD7
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295183
+#EXTINF:-1 group-title="ALBA",Alba XXX HD8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295184
 
-#EXTINF:-1 ,XXX XXL HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355185
-#EXTINF:-1 ,XXX: EXTASY
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355184
-#EXTINF:-1 ,XXX XY plus
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355183
-#EXTINF:-1 ,AL-XXX: Bizzare Live
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355182
-#EXTINF:-1 ,AL-XXX: Bunga Bunga
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355181
-#EXTINF:-1 ,XXX ALBA XXX 1 FHD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355180
-#EXTINF:-1 ,XXX ALBA XXX 2 FHD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355179
-#EXTINF:-1 ,XXX ALBA XXX 3
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355177
-#EXTINF:-1 ,XXX ALBA XXX 4
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355176
-#EXTINF:-1 ,XXX ALBA XXX 6
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355175
-#EXTINF:-1 ,XXX VENUS TV
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355174
-#EXTINF:-1 ,XXX: XXL TV
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355173
-#EXTINF:-1 ,XXX: REDLIGHT HD
-http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355172
-#EXTINF:-1 ,XXX: Hustler HD_Website : iptvm3uadult.blogspot.com
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75402
-#EXTINF:-1 ,XXX: Redlight HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75403
-#EXTINF:-1 ,XXX: Private TV HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75404
-#EXTINF:-1 ,XXX: Erox HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75409
-#EXTINF:-1 ,XXX: Erox XXX HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75410
-#EXTINF:-1 ,XXX: Penthouse Gold HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75411
-#EXTINF:-1 ,XXX: Penthouse Quickies HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75412
-#EXTINF:-1 ,XXX: Just 89 HD_Website : iptvm3uadult.blogspot.com
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75413
-#EXTINF:-1 ,XXX: Super One HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75414
-#EXTINF:-1 ,XXX: Lesbian Affair
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75465
+//AdultIPTV.net
+#EXTINF:-1 group-title="ADULTIPTV",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="ADULTIPTV",Asian
+http://live.adultiptv.net/asian.m3u8
 
-#EXTINF:-1 ,XXX: Babes TV HD
+//ATK Galleria
+#EXTINF:-1 group-title="FAVOURITE",ATK Galleria
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291229
+
+//BABES
+#EXTINF:-1 group-title="BABES",Babes
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296234
+#EXTINF:-1 group-title="BABES",Babes (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233320
+#EXTINF:-1 group-title="BABES",Babes (server 3)
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233320
+#EXTINF:-1 group-title="BABES",Babes HD
 http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75417
 
-
-#EXTINF:-1 ,XXX: DUSK!
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75424
-#EXTINF:-1 ,XXX: Dorcel XXX HD_Website : iptvm3uadult.blogspot.com
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75406
-
-#EXTINF:-1 ,XXX: Hustler TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75425
-#EXTINF:-1 ,XXX: Dorcel HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75405
-#EXTINF:-1 ,XXX: Stars XXX HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75408
-#EXTINF:-1 ,XXX: SEX ATION HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75415
-#EXTINF:-1 ,XXX: Balkan Hot
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75416
-#EXTINF:-1 ,XXX: Hot XXL HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75421
-#EXTINF:-1 ,XXX: Evil Angel
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75422
-
-
-#EXTINF:-1 ,XXX: Passie XXX
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75427
-#EXTINF:-1 ,XXX: Passion XXX
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75428
-#EXTINF:-1 ,XXX: Reality Kings TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75429
-#EXTINF:-1 ,XXX: Pink O TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75430
-#EXTINF:-1 ,XXX: Prive TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75431
-#EXTINF:-1 ,XXX: Sext & Senso
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75432
-#EXTINF:-1 ,XXX: SCT Classic
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75433
-#EXTINF:-1 ,XXX: BraZZers TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75434
-#EXTINF:-1 ,XXX: Brazzers TV Europe
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75435
-#EXTINF:-1 ,XXX: Brazzers TV Europe Russian
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75436
-#EXTINF:-1 ,XXX: Hot TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75437
-#EXTINF:-1 ,XXX: Venus TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75438
-#EXTINF:-1 ,XXX: Sextreme
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75439
-#EXTINF:-1 ,XXX: Sexy HOT
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75440
-#EXTINF:-1 ,XXX: Meiden Van Holland Hard
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75441
-#EXTINF:-1 ,XXX: X1
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75442
-
-
-#EXTINF:-1 ,XXX: Balkan Erotic
+//BALKAN EROTIC
+#EXTINF:-1 group-title="FAVOURITE",Balkan Erotic
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3320
+#EXTINF:-1 group-title="FAVOURITE",Balkan Erotic (server 2)
 http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75454
-#EXTINF:-1 ,XXX: Taboo
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75455
-#EXTINF:-1 ,XXX: Oldtimer
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75456
-#EXTINF:-1 ,XXX: Bangerz
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75457
-#EXTINF:-1 ,XXX: Net XX
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75458
-#EXTINF:-1 ,XXX: Playhouse
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75459
-#EXTINF:-1 ,XXX: Hot Pleasure
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75460
-#EXTINF:-1 ,XXX: Milf TV
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75461
-#EXTINF:-1 ,XXX: Red XXX
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75462
-#EXTINF:-1 ,XXX: Extreme
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75463
-#EXTINF:-1 ,XXX: Bang U
+#EXTINF:-1 group-title="FAVOURITE",Balkan Erotic (server 3)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233321
+
+//BANG U
+#EXTINF:-1 group-title="FAVOURITE",Bang U
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3330
+#EXTINF:-1 group-title="FAVOURITE",Bang U (server 2)
 http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75464
-#EXTINF:-1 ,XXX: Emanuelle
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75466
-#EXTINF:-1 ,XXX:  Fake Taxi 3
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233352
 
+//BANGERZ
+#EXTINF:-1 group-title="FAVOURITE",Bangerz
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/260354
 
-#EXTINF:-1 ,XXX: Alba 3
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233313
-#EXTINF:-1 ,XXX: Blacked 1_Website : iptvm3uadult.blogspot.com
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233317
+//BARELY LEGAL
+#EXTINF:-1 group-title="FAVOURITE",Barely Legal
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/92037
+#EXTINF:-1 group-title="FAVOURITE",Barely Legal (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355200
 
-#EXTINF:-1 ,XXX: SexMex (VIP)_Website : iptvm3uadult.blogspot.com
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25163
-#EXTINF:-1 ,XXX: Czech Streets (VIP)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26415
-#EXTINF:-1 ,XXX: Russkaya Noch (VIP)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/312432
-#EXTINF:-1 ,XXX: Ava Addams (VIP)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/60795
-#EXTINF:-1 ,XXX: College Rules (VIP)_Website : iptvm3uadult.blogspot.com
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102232
-#EXTINF:-1 ,XXX: Hot Kinky Jo (VIP)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102233
-#EXTINF:-1 ,XXX: Czech Gang Bang (VIP)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/103056
+//BEATE UHSE
+#EXTINF:-1 group-title="FAVOURITE",Beate Uhse TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3341
 
-#EXTINF:-1 ,XXX: Private TV FHD
+//BRAZZER
+#EXTINF:-1 group-title="BRAZZER",Brazzers
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291234
+#EXTINF:-1 group-title="BRAZZER",Brazzers (server 2)
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233330
+#EXTINF:-1 group-title="BRAZZER",Brazzers (server 3)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75434
+#EXTINF:-1 group-title="BRAZZER",Brazzers (server 4)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355225
+#EXTINF:-1 group-title="BRAZZER",Brazzers 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296072
+#EXTINF:-1 group-title="BRAZZER",Brazzers Europe
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/79
+#EXTINF:-1 group-title="BRAZZER",Brazzers Europe (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233329
+#EXTINF:-1 group-title="BRAZZER",Brazzers Europe (server 3)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75435
+#EXTINF:-1 group-title="BRAZZER",Brazzers Europe (server 4)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355206
+#EXTINF:-1 group-title="BRAZZER",Brazzers Europe 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291241
+#EXTINF:-1 group-title="BRAZZER",Brazzers Europe 2 (server 2)
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233331
+#EXTINF:-1 group-title="BRAZZER",Brazzers en Español
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107125
+#EXTINF:-1 group-title="BRAZZER",Brazzers Europe Russian
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75436
+
+//CENTO
+#EXTINF:-1 group-title="FAVOURITE",Cento X Cento
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/245142
+
+//DORCEL
+#EXTINF:-1 group-title="DORCEL",Dorcel
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3283
+#EXTINF:-1 group-title="DORCEL",Dorcel (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355205
+#EXTINF:-1 group-title="DORCEL",Dorcel (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355233
+#EXTINF:-1 group-title="DORCEL",Dorcel (server 4)
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233342
+#EXTINF:-1 group-title="DORCEL",Dorcel (server 5)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355205
+#EXTINF:-1 group-title="DORCEL",Dorcel FHD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355229
+#EXTINF:-1 group-title="DORCEL",Dorcel HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75406
+#EXTINF:-1 group-title="DORCEL",Dorcel (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75405
+
+//DREAM PORN
+#EXTINF:-1 group-title="FAVOURITE",Dream Porn
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3288
+
+//DUSK
+#EXTINF:-1 group-title="FAVOURITE",Dusk
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/75
+#EXTINF:-1 group-title="FAVOURITE",Dusk (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355204
+#EXTINF:-1 group-title="FAVOURITE",Dusk (server 3)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75424
+
+//EROTIC
+#EXTINF:-1 group-title="EROTIC",Erotic
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/37153
+#EXTINF:-1 group-title="EROTIC",Erotic 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/76
+#EXTINF:-1 group-title="EROTIC",Erotic 3
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3317
+#EXTINF:-1 group-title="EROTIC",Erotic 4
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/52
+#EXTINF:-1 group-title="EROTIC",Erotic 5
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/35814
+#EXTINF:-1 group-title="EROTIC",Erotic 6
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/77
+#EXTINF:-1 group-title="EROTIC",Erotic 7
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3318
+#EXTINF:-1 group-title="EROTIC",Erotic 8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3319
+
+//EROX
+#EXTINF:-1 group-title="EROX",Erox
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3796
+#EXTINF:-1 group-title="EROX",Erox (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355234
+#EXTINF:-1 group-title="EROX",Erox (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355203
+#EXTINF:-1 group-title="EROX",Erox HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75409
+#EXTINF:-1 group-title="EROX",Eroxxx
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/37276
+#EXTINF:-1 group-title="EROX",Eroxxx (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355202
+#EXTINF:-1 group-title="EROX",Eroxxx HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75410
+#EXTINF:-1 group-title="EROX",EroX 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233344
+#EXTINF:-1 group-title="EROX",EroX 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233345
+
+//EVIL ANGEL
+#EXTINF:-1 group-title="EVIL ANGEL",Evil Angel
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146259
+#EXTINF:-1 group-title="EVIL ANGEL",Evil Angel (server 2)
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291240
+#EXTINF:-1 group-title="EVIL ANGEL",Evil Angel (server 3)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233346
+
+//EXTASY
+#EXTINF:-1 group-title="FAVOURITE",Extasy
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/195567
+#EXTINF:-1 group-title="FAVOURITE",Extasy (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355184
+
+//EXXXOTICA TV
+#EXTINF:-1 group-title="FAVOURITE",Exxxotica TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3345
+
+//FANTASY TV
+#EXTINF:-1 group-title="FAVOURITE",Fantazzy TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296374
+
+//FASHION TV
+#EXTINF:-1 group-title="SEXY",Fashion TV Midnight Secrets
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/192275
+
+//FRENCH LOVER
+#EXTINF:-1 group-title="FAVOURITE",French Lover
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3334
+
+//HOT
+#EXTINF:-1 group-title="HOT",HOT
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1538
+#EXTINF:-1 group-title="HOT",HOT Gold
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291250
+#EXTINF:-1 group-title="HOT",HOT Pleasure
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291246
+#EXTINF:-1 group-title="HOT",HOT Taboo
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290031
+#EXTINF:-1 group-title="HOT",HOT XXL
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/15844
+
+//HUSTLER
+#EXTINF:-1 group-title="HUSTLER",Blue Hustler
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/37296
+#EXTINF:-1 group-title="HUSTLER",Blue Hustler HD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355226
+#EXTINF:-1 group-title="HUSTLER",Hustler
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/6028
+#EXTINF:-1 group-title="HUSTLER",Hustler (server 2)
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233372
+#EXTINF:-1 group-title="HUSTLER",Hustler FHD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355227
+#EXTINF:-1 group-title="HUSTLER",Hustler HD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355231
+#EXTINF:-1 group-title="HUSTLER",Hustler HD (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75402
+#EXTINF:-1 group-title="HUSTLER",Hustler TV
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233373
+#EXTINF:-1 group-title="HUSTLER",Hustler TV (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355198
+#EXTINF:-1 group-title="HUSTLER",Hustler TV (server 3)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75425
+#EXTINF:-1 group-title="HUSTLER",Hustler TV RED
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290277
+
+//LEO TV
+#EXTINF:-1 group-title="FAVOURITE",Leo TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/283826
+
+//LUST PUR TV
+#EXTINF:-1 group-title="FAVOURITE",Lust Pur TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290294
+
+//MEIDEN VAN HOLLAND
+#EXTINF:-1 group-title="FAVOURITE",Meiden Van Holland
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3311
+
+//MIAMI TV
+#EXTINF:-1 group-title="MIAMI TV",Miami TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1731
+#EXTINF:-1 group-title="MIAMI TV",Miami TV International
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/55212
+#EXTINF:-1 group-title="MIAMI TV",Miami TV Jenny For You
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296366
+#EXTINF:-1 group-title="MIAMI TV",Miami TV Jenny Live
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285514
+#EXTINF:-1 group-title="MIAMI TV",Miami TV Latino
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/18344
+
+//MOVISTAR PLANET
+#EXTINF:-1 group-title="FAVOURITE",Movistar Planet
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/279268
+
+//NET XX
+#EXTINF:-1 group-title="FAVOURITE",Net XX
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3324
+
+//NUART
+#EXTINF:-1 group-title="FAVOURITE",nuart
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49169
+
+//O LA LA
+#EXTINF:-1 group-title="FAVOURITE",O.La.La
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/36535
+
+//PASSIE
+#EXTINF:-1 group-title="FAVOURITE",Passie
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28298
+#EXTINF:-1 group-title="FAVOURITE",Passie (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75427
+
+//PASSION
+#EXTINF:-1 group-title="PASSION",Passion
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/48
+#EXTINF:-1 group-title="PASSION",Passion XXX
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/283040
+#EXTINF:-1 group-title="PASSION",Passion XXX (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355196
+#EXTINF:-1 group-title="PASSION",Passion XXX (server 3)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233385
+#EXTINF:-1 group-title="PASSION",Passion XXX (server 4)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75428
+
+//PENTHOUSE
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355237
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Gold
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/32056
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Gold (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355194
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Gold HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75411
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Passion
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/172382
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Passion (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355193
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Quickies
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3284
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Quickies (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233387
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Quickies (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355195
+#EXTINF:-1 group-title="PENTHOUSE",Penthouse Quickies HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75412
+
+//PINK EXOTIC
+#EXTINF:-1 group-title="PINK EXOTIC",Pink Exotic 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233391
+#EXTINF:-1 group-title="PINK EXOTIC",Pink Exotic 4
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233393
+#EXTINF:-1 group-title="PINK EXOTIC",Pink Exotic 4 (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75449
+#EXTINF:-1 group-title="PINK EXOTIC",Pink Exotic 5
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233394
+#EXTINF:-1 group-title="PINK EXOTIC",Pink Exotic 7
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233397
+#EXTINF:-1 group-title="PINK EXOTIC",Pink Exotic 7 (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75452
+#EXTINF:-1 group-title="PINK EXOTIC",Pink Exotic 8
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75453
+
+//PINKO CLUB
+#EXTINF:-1 group-title="FAVOURITE",Pinko Club
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3342
+
+//PLAYBOY
+#EXTINF:-1 group-title="PLAYBOY",Playboy
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/14222
+#EXTINF:-1 group-title="PLAYBOY",Playboy (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233399
+#EXTINF:-1 group-title="PLAYBOY",Playboy (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355190
+#EXTINF:-1 group-title="PLAYBOY",Playboy (server 4)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355238
+#EXTINF:-1 group-title="PLAYBOY",Playboy DD
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290310
+#EXTINF:-1 group-title="PLAYBOY",Playboy Latino
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290309
+
+//PORNBOX
+#EXTINF:-1 group-title="PORNBOX",PornBox ASMR Fantasy
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233436
+#EXTINF:-1 group-title="PORNBOX",PornBox ATK Girlfriends
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233437
+#EXTINF:-1 group-title="PORNBOX",PornBox Babes
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233438
+#EXTINF:-1 group-title="PORNBOX",PornBox Babes Unleashed
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233439
+#EXTINF:-1 group-title="PORNBOX",PornBox Babeslicious
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233440
+#EXTINF:-1 group-title="PORNBOX",PornBox Bad Daddy POV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233441
+#EXTINF:-1 group-title="PORNBOX",PornBox Bang Bus
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233443
+#EXTINF:-1 group-title="PORNBOX",PornBox Bellesa Films
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233444
+#EXTINF:-1 group-title="PORNBOX",PornBox Big Naturals
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233445
+#EXTINF:-1 group-title="PORNBOX",PornBox Big Tits At School
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233446
+#EXTINF:-1 group-title="PORNBOX",PornBox Bitches Abroad
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233447
+#EXTINF:-1 group-title="PORNBOX",PornBox Black GFS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233448
+#EXTINF:-1 group-title="PORNBOX",PornBox Black IS Better
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233449
+#EXTINF:-1 group-title="PORNBOX",PornBox Blacked Raw
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233451
+#EXTINF:-1 group-title="PORNBOX",PornBox Bratty Sis
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233453
+#EXTINF:-1 group-title="PORNBOX",PornBox Broken Bebes
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233454
+#EXTINF:-1 group-title="PORNBOX",PornBox Broken Milf
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233455
+#EXTINF:-1 group-title="PORNBOX",PornBox Cum Fiesta
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233457
+#EXTINF:-1 group-title="PORNBOX",PornBox Day With A Pornstar
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233460
+#EXTINF:-1 group-title="PORNBOX",PornBox Deeper
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233461
+#EXTINF:-1 group-title="PORNBOX",PornBox DFD Busty
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233462
+#EXTINF:-1 group-title="PORNBOX",PornBox DDF Network
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233463
+#EXTINF:-1 group-title="PORNBOX",PornBox Digital Playground
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233464
+#EXTINF:-1 group-title="PORNBOX",PornBox Dog Fart
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233465
+#EXTINF:-1 group-title="PORNBOX",PornBox Dont Brake Me
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233466
+#EXTINF:-1 group-title="PORNBOX",PornBox Elegan Anal
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233467
+#EXTINF:-1 group-title="PORNBOX",PornBox Erito
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233468
+#EXTINF:-1 group-title="PORNBOX",PornBox Erotic Spice
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233469
+#EXTINF:-1 group-title="PORNBOX",PornBox Exotic 4K
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233470
+#EXTINF:-1 group-title="PORNBOX",PornBox Exxxtra Small
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233471
+#EXTINF:-1 group-title="PORNBOX",PornBox Fake Agent UK
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233473
+#EXTINF:-1 group-title="PORNBOX",PornBox Fake Cop
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233474
+#EXTINF:-1 group-title="PORNBOX",PornBox Fake Driving School
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233475
+#EXTINF:-1 group-title="PORNBOX",PornBox Fake Hospital
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233476
+#EXTINF:-1 group-title="PORNBOX",PornBox Fake Hostel
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233477
+#EXTINF:-1 group-title="PORNBOX",PornBox Fake Taxi
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233478
+#EXTINF:-1 group-title="PORNBOX",PornBox  Family Sinners
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233479
+#EXTINF:-1 group-title="PORNBOX",PornBox Family Strokes
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233480
+#EXTINF:-1 group-title="PORNBOX",PornBox Family XXX
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233481
+#EXTINF:-1 group-title="PORNBOX",PornBox Female Agent
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233482
+#EXTINF:-1 group-title="PORNBOX",PornBox Female Fake Taxi
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233483
+#EXTINF:-1 group-title="PORNBOX",PornBox fever Film
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233484
+#EXTINF:-1 group-title="PORNBOX",PornBox First Anal
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233485
+#EXTINF:-1 group-title="PORNBOX",PornBox Fitness Rooms
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233486
+#EXTINF:-1 group-title="PORNBOX",PornBox I Know That Girl
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233494
+#EXTINF:-1 group-title="PORNBOX",PornBox Jays POV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233497
+#EXTINF:-1 group-title="PORNBOX",PornBox Lets Do It
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233500
+#EXTINF:-1 group-title="PORNBOX",PornBox Life Selector
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233501
+#EXTINF:-1 group-title="PORNBOX",PornBox MIkes Apartment
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233505
+#EXTINF:-1 group-title="PORNBOX",PornBox Mile High
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233506
+#EXTINF:-1 group-title="PORNBOX",PornBox Mofos B Sides
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233508
+#EXTINF:-1 group-title="PORNBOX",PornBox Mofos Lab
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233509
+#EXTINF:-1 group-title="PORNBOX",PornBox Mom Teach Sex
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233511
+#EXTINF:-1 group-title="PORNBOX",PornBox Money Talks
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233512
+#EXTINF:-1 group-title="PORNBOX",PornBox My Dirt Hoby
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233515
+#EXTINF:-1 group-title="PORNBOX",PornBox My Family Pies
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233516
+#EXTINF:-1 group-title="PORNBOX",PornBox My Friends Hot Mom
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233517
+#EXTINF:-1 group-title="PORNBOX",PornBox My Very First Time
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233520
+#EXTINF:-1 group-title="PORNBOX",PornBox Mylf
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233521
+#EXTINF:-1 group-title="PORNBOX",PornBox Nanny Spy
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233522
+#EXTINF:-1 group-title="PORNBOX",PornBox Nubile Films
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233525
+#EXTINF:-1 group-title="PORNBOX",PornBox Perv Mom
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233527
+#EXTINF:-1 group-title="PORNBOX",PornBox Porno Academie
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233529
+#EXTINF:-1 group-title="PORNBOX",PornBox POVD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233530
+#EXTINF:-1 group-title="PORNBOX",PornBox Prestige Japan
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233531
+#EXTINF:-1 group-title="PORNBOX",PornBox Petty Dirty
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233532
+#EXTINF:-1 group-title="PORNBOX",PornBox Private
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233533
+#EXTINF:-1 group-title="PORNBOX",PornBox Property Sex
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233534
+#EXTINF:-1 group-title="PORNBOX",PornBox Publick Pick Ups
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233536
+#EXTINF:-1 group-title="PORNBOX",PornBox Pure 18
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233537
+#EXTINF:-1 group-title="PORNBOX",PornBox Raw Attack
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233538
+#EXTINF:-1 group-title="PORNBOX",PornBox Real Ex Girlfriend
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233539
+#EXTINF:-1 group-title="PORNBOX",PornBox Real Sensual
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233540
+#EXTINF:-1 group-title="PORNBOX",PornBox Sell Your GF
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233542
+#EXTINF:-1 group-title="PORNBOX",PornBox Sex Working
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233543
+#EXTINF:-1 group-title="PORNBOX",PornBox Share My BF
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233544
+#EXTINF:-1 group-title="PORNBOX",PornBox Sis Love Me
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233545
+#EXTINF:-1 group-title="PORNBOX",PornBox Step Mom Lessons
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233546
+#EXTINF:-1 group-title="PORNBOX",PornBox The Innocence OF Youth
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233550
+#EXTINF:-1 group-title="PORNBOX",PornBox Tiny 4K
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233551
+#EXTINF:-1 group-title="PORNBOX",PornBox Turning Twistys
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233553
+#EXTINF:-1 group-title="PORNBOX",PornBox Tushy
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233554
+#EXTINF:-1 group-title="PORNBOX",PornBox Vixen
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233556
+#EXTINF:-1 group-title="PORNBOX",PornBox We Live Together
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233558
+
+//PRIVATE
+#EXTINF:-1 group-title="PRIVATE",Private
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3281
+#EXTINF:-1 group-title="PRIVATE",Private (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355192
+#EXTINF:-1 group-title="PRIVATE",Private (server 3)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233402
+#EXTINF:-1 group-title="PRIVATE",Private HD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355191
+#EXTINF:-1 group-title="PRIVATE",Private HD (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355230
+#EXTINF:-1 group-title="PRIVATE",Private HD (server 3)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75404
+#EXTINF:-1 group-title="PRIVATE",Private HD (server 4)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36558
 
-#EXTINF:-1 ,24/7 Vulgarcito +18
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101948
-#EXTINF:-1 ,24/7 El Mono Mario +18
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101955
-#EXTINF:-1 ,XXX: Balkan Erotic
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233321
-#EXTINF:-1 ,XXX: Blacked Raw
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233326
-#EXTINF:-1 ,XXX: Blue Husler
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233328
-#EXTINF:-1 ,XXX: Dorcel XXX
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233342
+//REALITY KINGS
+#EXTINF:-1 group-title="FAVOURITE",Reality Kings TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/383
+#EXTINF:-1 group-title="FAVOURITE",Reality Kings TV (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75429
 
-
-#EXTINF:-1 ,XXX: Nubiles TV_Website : iptvm3uadult.blogspot.com
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233383
-#EXTINF:-1 ,XXX: Pasion XXX
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233385
-
-
-#EXTINF:-1 ,XXX: Playboy TV
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233399
-#EXTINF:-1 ,XXX: Private _Website : iptvm3uadult.blogspot.com
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233402
-#EXTINF:-1 ,XXX: Taboo
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233403
-#EXTINF:-1 ,XXX: Readlight
+//REDLIGHT
+#EXTINF:-1 group-title="REDLIGHT",Redlight
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/85
+#EXTINF:-1 group-title="REDLIGHT",Redlight (server 2)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233405
-#EXTINF:-1 ,XXX: Trans Angel
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233406
-#EXTINF:-1 ,XXX: Russkaya Noch
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233407
-#EXTINF:-1 ,XXX: Publick Agent
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233423
-#EXTINF:-1 ,XXX: Tushy
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233424
-#EXTINF:-1 ,XXX: U Bang
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233426
+#EXTINF:-1 group-title="REDLIGHT",Redlight HD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355172
+#EXTINF:-1 group-title="REDLIGHT",Redlight HD (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75403
+#EXTINF:-1 group-title="REDLIGHT",Redlight HD (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355239
+#EXTINF:-1 group-title="REDLIGHT",Redlight HD (server 4)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355228
 
+//RUSSIAN NIGHT
+#EXTINF:-1 group-title="FAVOURITE",Russian Night
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49168
 
+//SECRET CIRCLE
+#EXTINF:-1 group-title="FAVOURITE",Secret Circle
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290298
 
-#EXTINF:-1 ,XXX: Wank it Now
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233431
+//SEXATION
+#EXTINF:-1 group-title="FAVOURITE",SeXation
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146437
+#EXTINF:-1 group-title="FAVOURITE",SeXation HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75415
 
+//SEXT N SENSO
+#EXTINF:-1 group-title="FAVOURITE",Sext & Senso
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75432
 
+//SEXTREME
+#EXTINF:-1 group-title="SEXTREME",Sextreme
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3309
+#EXTINF:-1 group-title="SEXTREME",Sextreme (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75439
+#EXTINF:-1 group-title="SEXTREME",Sextreme SD
+http://loadbl2.online:8080/fatima4335/megatv1/39215
+#EXTINF:-1 group-title="SEXTREME",Sextreme HD
+http://loadbl2.online:8080/fatima4335/megatv1/39216
 
-#EXTINF:-1 ,XXX: Pink Erotic 4
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75449
-#EXTINF:-1 ,XXX: Pink Erotic 7
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75452
-#EXTINF:-1 ,XXX: Pink Erotic 8
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75453
-#EXTINF:-1 ,XxX
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3889
-#EXTINF:-1 ,XxX_By : iptvm3uadult.blogspot.com
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224307
-#EXTINF:-1 ,XxX
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128374
-#EXTINF:-1 ,XxX_By : iptvm3uadult.blogspot.com
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242608
-#EXTINF:-1 ,XxX
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242635
+//SEXY HOT
+#EXTINF:-1 group-title="SEXY",Sexy Hot
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3310
+#EXTINF:-1 group-title="SEXY",Sexy Hot (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75440
+#EXTINF:-1 group-title="SEXY",Sexy Hot FHD
+http://loadbl2.online:8080/fatima4335/megatv1/39218
+#EXTINF:-1 group-title="SEXY",Sexy Hot FHD [H265]
+http://loadbl2.online:8080/fatima4335/megatv1/113218
+#EXTINF:-1 group-title="SEXY",Sexy Hot HD
+http://loadbl2.online:8080/fatima4335/megatv1/39219
+#EXTINF:-1 group-title="SEXY",Sexy Hot SD
+http://loadbl2.online:8080/fatima4335/megatv1/39217
 
-#EXTINF:-1 ,XXX: Brazzers
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233330
-#EXTINF:-1 ,XXX: Brazzers Europe 2
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233331
-#EXTINF:-1 ,XXX: Alba 3
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233313
-#EXTINF:-1 ,XXX: Blacked 1
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233317
-#EXTINF:-1 ,XXX: Babes
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233320
-#EXTINF:-1 ,XXX: SexMex (VIP)_Website : iptvm3uadult.blogspot.com
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/25163
-#EXTINF:-1 ,XXX: Dorcel XXX
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233342
+//SUPERONE
+#EXTINF:-1 group-title="FAVOURITE",SuperOne
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3286
+
+//VENUS
+#EXTINF:-1 group-title="VENUS",Venus
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3258
+#EXTINF:-1 group-title="VENUS",Venus (server 2)
+http://loadbl2.online:8080/fatima4335/megatv1/39225
+#EXTINF:-1 group-title="VENUS",Venus (server 3)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233427
+#EXTINF:-1 group-title="VENUS",Venus (server 4)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355232
+#EXTINF:-1 group-title="VENUS",Venus (server 5)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355174
+#EXTINF:-1 group-title="VENUS",Venus White
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295193
+
+//VISIT-X
+#EXTINF:-1 group-title="FAVOURITE",Visit-X TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/28531
+
+//VIVID
+#EXTINF:-1 group-title="VIVID",Vivid Red
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3989
+#EXTINF:-1 group-title="VIVID",Vivid Red (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36561
+#EXTINF:-1 group-title="VIVID",Vivid Red HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75407
+#EXTINF:-1 group-title="VIVID",Vivid Red HD (server 2)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355240
+#EXTINF:-1 group-title="VIVID",Vivid Red HD (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355187
+#EXTINF:-1 group-title="VIVID",Vivid Red FHD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355224
+#EXTINF:-1 group-title="VIVID",Vivid Touch
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3295
+#EXTINF:-1 group-title="VIVID",Vivid Touch (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233355
+#EXTINF:-1 group-title="VIVID",Vivid Touch HD
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355223
+#EXTINF:-1 group-title="VIVID",Vivid TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146434
+#EXTINF:-1 group-title="VIVID",Vivid TV (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233429
+#EXTINF:-1 group-title="VIVID",Vivid TV (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355186
+#EXTINF:-1 group-title="VIVID",Vivid TV Europe
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75423
+
+//VIXEN
+#EXTINF:-1 group-title="FAVOURITE",Vixen
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290296
+#EXTINF:-1 group-title="FAVOURITE",Vixen (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233430
+
+//X BIZARRE
+#EXTINF:-1 group-title="FAVOURITE",X Bizarre
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3313
+#EXTINF:-1 group-title="FAVOURITE",X Bizarre (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75443
+#EXTINF:-1 group-title="FAVOURITE",X Bizarre (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355182
+
+//X BUNGA BUNGA
+#EXTINF:-1 group-title="FAVOURITE",X Bunga Bunga
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3315
+#EXTINF:-1 group-title="FAVOURITE",X Bunga Bunga (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75445
+#EXTINF:-1 group-title="FAVOURITE",X Bunga Bunga (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355181
+
+//X DESIRE
+#EXTINF:-1 group-title="FAVOURITE",X Desire
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3791
+#EXTINF:-1 group-title="FAVOURITE",X Desire (server 2)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75444
+
+//XXL
+#EXTINF:-1 group-title="FAVOURITE",XXL
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3298
+#EXTINF:-1 group-title="FAVOURITE",XXL (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233433
+#EXTINF:-1 group-title="FAVOURITE",XXL (server 3)
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75426
+
+//XY
+#EXTINF:-1 group-title="XY",XY Max
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/192282
+#EXTINF:-1 group-title="XY",XY Max (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233435
+#EXTINF:-1 group-title="XY",XY Max HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75419
+#EXTINF:-1 group-title="XY",XY Mix
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3293
+#EXTINF:-1 group-title="XY",XY Mix (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233434
+#EXTINF:-1 group-title="XY",XY Mix HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75420
+#EXTINF:-1 group-title="XY",XY Plus
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3291
+#EXTINF:-1 group-title="XY",XY Plus (server 2)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233432
+#EXTINF:-1 group-title="XY",XY Plus (server 3)
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355183
+#EXTINF:-1 group-title="XY",XY Plus HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75418
+#EXTINF:-1 group-title="XY",XY Plus FHD +1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/285212
+
+//Шалун TV
+#EXTINF:-1 group-title="FAVOURITE",Шалун TV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290291
