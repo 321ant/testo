@@ -437,6 +437,18 @@ https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci Learning" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_(2019-.n.v.).png/revision/latest?cb=20191031124005" group-title="Kids",Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
+//DISNEY JR
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Disney JR
+http://alphabetagama.myddns.me/uk2020/DisneyJR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MDQ6MDIgQU0maGFzaF92YWx1ZT1QMXIyT0tVcFZNZVNwV25VUkVRY1dnPT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Disney JR (Server 2)
+http://0nelive0ne.rbtvnw.com:21190/mars2/disneyjrhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MTc6NTMgQU0maGFzaF92YWx1ZT1yR09SeVk5NklNQ2ZjcUczOG1ZU0tRPT0mdmFsaWRtaW51dGVzPTI=
+
+//DISNEY XD
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Disney XD
+http://alphabetagama.myddns.me/uk2020/DisneyXD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MDM6NDAgQU0maGFzaF92YWx1ZT1ZWjYrVjZxallMbzRHM091bEo0Zkd3PT0mdmFsaWRtaW51dGVzPTY=
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Disney XD (Server 2)
+http://0nelive0ne.rbtvnw.com:21190/mars2/disneyxdhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MTg6MjAgQU0maGFzaF92YWx1ZT1XazNzVVRpUCs1SU5yMTh3SXgxNVp3PT0mdmFsaWRtaW51dGVzPTI=
+
 //DORA TV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -491,6 +503,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="KidsTV.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids",Kids TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
+//KIX
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",KIX
+http://alphabetagama.myddns.me/kids2019/kix/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MDU6MjAgQU0maGFzaF92YWx1ZT0zWFo1d1BITjdqdy9mZXVRSEQxREhBPT0mdmFsaWRtaW51dGVzPTY=
+
 //KURIAKOS KIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://kuriakos-tvs.com/wp-content/uploads/2020/05/Kuriakos-kids.jpg" group-title="Kids",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
@@ -527,6 +543,13 @@ http://rr.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="Kids",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nickelodeon UK
+http://livespecial.rbtvnw.com:21190/mars/nickelodeonuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MjA6MTggQU0maGFzaF92YWx1ZT1FcXg0cWVTMFhUMU5oZDQ5ay9ZVDlnPT0mdmFsaWRtaW51dGVzPTI=
+
+//NICK HD
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Nick HD
+http://alphabetagama.myddns.me/kids2019/nickhdplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MDY6NTkgQU0maGFzaF92YWx1ZT1RSW5CZitmS1oxQTdaMW1LVi8zUUJRPT0mdmFsaWRtaW51dGVzPTY=
+
 //NICKJR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -534,9 +557,19 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nick Jr (Server 2)
+http://0nelive0ne.rbtvnw.com:21190/mars2/nickjrkd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MTg6NTcgQU0maGFzaF92YWx1ZT1KYWhrK1UrS0ZYMEphaUhLb252UkRnPT0mdmFsaWRtaW51dGVzPTI=
+
 //NICK JR PLUTO TV
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Nick Jr Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+//NICK TOONS
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Nick Toons
+http://alphabetagama.myddns.me/uk2020/NickToons/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MDM6MTMgQU0maGFzaF92YWx1ZT1FZU8vNURQYmplUS9UWG9BSEdPRzFBPT0mdmFsaWRtaW51dGVzPTY=
+
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",Nick Toons (Server 2)
+http://alphatw0.rbtvnw.com:21190/ceres/nicktoons/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MjE6MDEgQU0maGFzaF92YWx1ZT10cmkyM09zdjZ5bE16ZzBheEhHNGlBPT0mdmFsaWRtaW51dGVzPTI=
 
 //PBSKIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://w7.pngwing.com/pngs/757/383/png-transparent-pbs-kids-children-s-television-series-klru-green-kids-logo-television-child-leave-the-material.png" group-title="Kids",PBS Kids
@@ -565,6 +598,10 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 //TVO KIDS
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://thumbs2.imgbox.com/53/fd/6osvMmNc_t.png" group-title="Kids",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+//TINY POP
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="" group-title="Kids",TinyPOP
+http://alphabetagama.myddns.me/kids2019/tinypop/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjIgMTA6MDI6MDUgQU0maGFzaF92YWx1ZT1BQWFYTU1Za045NXhmUE5ERlptTFh3PT0mdmFsaWRtaW51dGVzPTY=
 
 //ZOOMOO
 #EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Kids",ZooMoo
