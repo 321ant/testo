@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="" group-title="V", x1 HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="V", x1 SD
@@ -51,9 +52,6 @@ http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg
 #EXTINF:-1 tvg-logo="https://www.bbstv.id/wp-content/uploads/2019/07/Logo_bbstv-107x42.png" group-title="ID", BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
-
-
-/////start/////
 
 #EXTINF:-1 tvg-logo="" group-title="VIDIO", SCTV HD
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
