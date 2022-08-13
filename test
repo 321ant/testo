@@ -747,89 +747,89 @@ http://line.ptvplus.live:80/bertocchini/AYMI1JUJMG/2033
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/86988 
 
 
-#EXTINF:-1 tvg-logo="" group-title="V", x1 HD
+#EXTINF:-1 group-title="V", x1 HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="V", x1 SD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="V", FashionTV HD
+#EXTINF:-1 group-title="V", FashionTV HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FashionTV SD
+#EXTINF:-1 group-title="V", FashionTV SD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FashionTV HD
+#EXTINF:-1 group-title="V", FashionTV HD
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FashionTV HD
+#EXTINF:-1 group-title="V", FashionTV HD
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FashionTV SD
+#EXTINF:-1 group-title="V", FashionTV SD
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FashionTV SD
+#EXTINF:-1 group-title="V", FashionTV SD
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM HD1
+#EXTINF:-1 group-title="V", FTV.COM HD1
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM HD2
+#EXTINF:-1 group-title="V", FTV.COM HD2
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM SD1
+#EXTINF:-1 group-title="V", FTV.COM SD1
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM SD2
+#EXTINF:-1 group-title="V", FTV.COM SD2
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM HD1
+#EXTINF:-1 group-title="V", FTV.COM HD1
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM HD2
+#EXTINF:-1 group-title="V", FTV.COM HD2
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM SD1
+#EXTINF:-1 group-title="V", FTV.COM SD1
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b1400000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", FTV.COM SD2
+#EXTINF:-1 group-title="V", FTV.COM SD2
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="V", Fashion 
+#EXTINF:-1 group-title="V", Fashion 
 http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b380000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", Fashion
+#EXTINF:-1 group-title="V", Fashion
 http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b600000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", Fashion SD
+#EXTINF:-1 group-title="V", Fashion SD
 http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b900000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", Fashion SD
+#EXTINF:-1 group-title="V", Fashion SD
 http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b1400000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", Fashion HD
+#EXTINF:-1 group-title="V", Fashion HD
 http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="V", Fashion HD
+#EXTINF:-1 group-title="V", Fashion HD
 http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b4700000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bbstv.id/wp-content/uploads/2019/07/Logo_bbstv-107x42.png" group-title="ID", BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", SCTV HD
+#EXTINF:-1 group-title="VIDIO", SCTV HD
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", INDOSIAR HD
+#EXTINF:-1 group-title="VIDIO", INDOSIAR HD
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", 1
+#EXTINF:-1 group-title="VIDIO", 1
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", TRANS TV
+#EXTINF:-1 group-title="VIDIO", TRANS TV
 https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", TRANS7 HD
+#EXTINF:-1 group-title="VIDIO", TRANS7 HD
 https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", METRO TV
+#EXTINF:-1 group-title="VIDIO", METRO TV
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", ANTV
+#EXTINF:-1 group-title="VIDIO", ANTV
 https://iptv.mwafa.net/vidio/782/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", TVONE
+#EXTINF:-1 group-title="VIDIO", TVONE
 https://iptv.mwafa.net/vidio/783/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", KOMPAS TV
+#EXTINF:-1 group-title="VIDIO", KOMPAS TV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", NET. HD
+#EXTINF:-1 group-title="VIDIO", NET. HD
 https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO", RTV
+#EXTINF:-1 group-title="VIDIO", RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 
 #EXTINF:-1 group-title="RapidZona",VIVID RED
@@ -1415,4 +1415,4 @@ http://191.212.166.203:4000/play/a0hk
 http://191.212.166.203:4000/play/a0hm
 #EXTINF:-1,cine-pipoca
 http://191.212.166.203:4000/play/a0hj
-#EXTINF:-1,cine-premium
+
