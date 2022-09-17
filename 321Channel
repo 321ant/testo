@@ -1061,6 +1061,11 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 ############################ NEWS ############################
 
+
+//ABC
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://bottega.tech/wp-content/uploads/2019/07/340-3407689_1200-x-425-19-abc-news-logo-png-4.jpg" group-title="News",ABC
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 //ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1068,10 +1073,7 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 //ABC NEWS
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://bottega.tech/wp-content/uploads/2019/07/340-3407689_1200-x-425-19-abc-news-logo-png-4.jpg" group-title="News",ABC News (Server 1)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://bottega.tech/wp-content/uploads/2019/07/340-3407689_1200-x-425-19-abc-news-logo-png-4.jpg" group-title="News",ABC News (Server 2)
+#EXTINF:-1 tvg-id="N/A" tvg-name="N/A" tvg-logo="https://bottega.tech/wp-content/uploads/2019/07/340-3407689_1200-x-425-19-abc-news-logo-png-4.jpg" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 //AJ JAZEERA
